@@ -1,0 +1,3226 @@
+algorithm,distribution,n,trial,time_s
+Insertion Sort,random,100,0,0.000164
+Insertion Sort,random,100,1,0.000178
+Insertion Sort,random,100,2,0.000184
+Insertion Sort,random,100,3,0.000151
+Insertion Sort,random,100,4,0.00018
+Insertion Sort,random,100,5,0.000173
+Insertion Sort,random,100,6,0.000194
+Insertion Sort,random,100,7,0.000174
+Insertion Sort,random,100,8,0.000166
+Insertion Sort,random,100,9,0.000169
+Insertion Sort,random,100,10,0.00017
+Insertion Sort,random,100,11,0.00021
+Insertion Sort,random,100,12,0.000176
+Insertion Sort,random,100,13,0.000172
+Insertion Sort,random,100,14,0.000178
+Insertion Sort,random,500,0,0.004781
+Insertion Sort,random,500,1,0.005214
+Insertion Sort,random,500,2,0.005686
+Insertion Sort,random,500,3,0.004947
+Insertion Sort,random,500,4,0.00483
+Insertion Sort,random,500,5,0.004657
+Insertion Sort,random,500,6,0.004975
+Insertion Sort,random,500,7,0.004694
+Insertion Sort,random,500,8,0.004572
+Insertion Sort,random,500,9,0.0063
+Insertion Sort,random,500,10,0.005185
+Insertion Sort,random,500,11,0.004875
+Insertion Sort,random,500,12,0.004672
+Insertion Sort,random,500,13,0.004747
+Insertion Sort,random,500,14,0.004917
+Insertion Sort,random,1000,0,0.020592
+Insertion Sort,random,1000,1,0.021397
+Insertion Sort,random,1000,2,0.02318
+Insertion Sort,random,1000,3,0.022219
+Insertion Sort,random,1000,4,0.021915
+Insertion Sort,random,1000,5,0.022092
+Insertion Sort,random,1000,6,0.022582
+Insertion Sort,random,1000,7,0.023277
+Insertion Sort,random,1000,8,0.023468
+Insertion Sort,random,1000,9,0.021877
+Insertion Sort,random,1000,10,0.022965
+Insertion Sort,random,1000,11,0.021995
+Insertion Sort,random,1000,12,0.021385
+Insertion Sort,random,1000,13,0.021264
+Insertion Sort,random,1000,14,0.023128
+Insertion Sort,random,5000,0,0.617697
+Insertion Sort,random,5000,1,0.597379
+Insertion Sort,random,5000,2,0.611437
+Insertion Sort,random,5000,3,0.613874
+Insertion Sort,random,5000,4,0.590577
+Insertion Sort,random,5000,5,0.60612
+Insertion Sort,random,5000,6,0.934519
+Insertion Sort,random,5000,7,1.143385
+Insertion Sort,random,5000,8,1.116545
+Insertion Sort,random,5000,9,0.60705
+Insertion Sort,random,5000,10,0.606482
+Insertion Sort,random,5000,11,0.600538
+Insertion Sort,random,5000,12,0.61754
+Insertion Sort,random,5000,13,0.612858
+Insertion Sort,random,5000,14,0.595737
+Insertion Sort,random,10000,0,2.457933
+Insertion Sort,random,10000,1,2.421183
+Insertion Sort,random,10000,2,3.436319
+Insertion Sort,random,10000,3,2.800879
+Insertion Sort,random,10000,4,2.42278
+Insertion Sort,random,10000,5,2.43724
+Insertion Sort,random,10000,6,2.435751
+Insertion Sort,random,10000,7,3.818182
+Insertion Sort,random,10000,8,2.459679
+Insertion Sort,random,10000,9,2.439692
+Insertion Sort,random,10000,10,2.448967
+Insertion Sort,random,10000,11,2.37231
+Insertion Sort,random,10000,12,3.819704
+Insertion Sort,random,10000,13,2.458473
+Insertion Sort,random,10000,14,2.40891
+Insertion Sort,sorted,100,0,1.1e-05
+Insertion Sort,sorted,100,1,8e-06
+Insertion Sort,sorted,100,2,8e-06
+Insertion Sort,sorted,100,3,8e-06
+Insertion Sort,sorted,100,4,8e-06
+Insertion Sort,sorted,100,5,8e-06
+Insertion Sort,sorted,100,6,8e-06
+Insertion Sort,sorted,100,7,8e-06
+Insertion Sort,sorted,100,8,8e-06
+Insertion Sort,sorted,100,9,8e-06
+Insertion Sort,sorted,100,10,8e-06
+Insertion Sort,sorted,100,11,8e-06
+Insertion Sort,sorted,100,12,8e-06
+Insertion Sort,sorted,100,13,8e-06
+Insertion Sort,sorted,100,14,8e-06
+Insertion Sort,sorted,500,0,6.3e-05
+Insertion Sort,sorted,500,1,4.9e-05
+Insertion Sort,sorted,500,2,5e-05
+Insertion Sort,sorted,500,3,6e-05
+Insertion Sort,sorted,500,4,5e-05
+Insertion Sort,sorted,500,5,4.8e-05
+Insertion Sort,sorted,500,6,4.9e-05
+Insertion Sort,sorted,500,7,5.4e-05
+Insertion Sort,sorted,500,8,4.9e-05
+Insertion Sort,sorted,500,9,4.9e-05
+Insertion Sort,sorted,500,10,4.9e-05
+Insertion Sort,sorted,500,11,4.9e-05
+Insertion Sort,sorted,500,12,4.9e-05
+Insertion Sort,sorted,500,13,4.9e-05
+Insertion Sort,sorted,500,14,4.9e-05
+Insertion Sort,sorted,1000,0,0.00011
+Insertion Sort,sorted,1000,1,0.000112
+Insertion Sort,sorted,1000,2,0.000109
+Insertion Sort,sorted,1000,3,0.000114
+Insertion Sort,sorted,1000,4,0.000108
+Insertion Sort,sorted,1000,5,0.000108
+Insertion Sort,sorted,1000,6,0.000118
+Insertion Sort,sorted,1000,7,0.000109
+Insertion Sort,sorted,1000,8,0.000111
+Insertion Sort,sorted,1000,9,0.000109
+Insertion Sort,sorted,1000,10,0.000114
+Insertion Sort,sorted,1000,11,0.000109
+Insertion Sort,sorted,1000,12,0.000108
+Insertion Sort,sorted,1000,13,0.000115
+Insertion Sort,sorted,1000,14,0.000109
+Insertion Sort,sorted,5000,0,0.000595
+Insertion Sort,sorted,5000,1,0.0006
+Insertion Sort,sorted,5000,2,0.0006
+Insertion Sort,sorted,5000,3,0.00059
+Insertion Sort,sorted,5000,4,0.000584
+Insertion Sort,sorted,5000,5,0.000588
+Insertion Sort,sorted,5000,6,0.00059
+Insertion Sort,sorted,5000,7,0.000591
+Insertion Sort,sorted,5000,8,0.000598
+Insertion Sort,sorted,5000,9,0.000612
+Insertion Sort,sorted,5000,10,0.00059
+Insertion Sort,sorted,5000,11,0.000588
+Insertion Sort,sorted,5000,12,0.000661
+Insertion Sort,sorted,5000,13,0.000591
+Insertion Sort,sorted,5000,14,0.000583
+Insertion Sort,sorted,10000,0,0.001231
+Insertion Sort,sorted,10000,1,0.001278
+Insertion Sort,sorted,10000,2,0.001207
+Insertion Sort,sorted,10000,3,0.001207
+Insertion Sort,sorted,10000,4,0.001221
+Insertion Sort,sorted,10000,5,0.001212
+Insertion Sort,sorted,10000,6,0.00127
+Insertion Sort,sorted,10000,7,0.00122
+Insertion Sort,sorted,10000,8,0.001208
+Insertion Sort,sorted,10000,9,0.001297
+Insertion Sort,sorted,10000,10,0.001203
+Insertion Sort,sorted,10000,11,0.001208
+Insertion Sort,sorted,10000,12,0.001226
+Insertion Sort,sorted,10000,13,0.001207
+Insertion Sort,sorted,10000,14,0.001252
+Insertion Sort,reverse,100,0,0.000331
+Insertion Sort,reverse,100,1,0.000339
+Insertion Sort,reverse,100,2,0.000324
+Insertion Sort,reverse,100,3,0.000329
+Insertion Sort,reverse,100,4,0.00033
+Insertion Sort,reverse,100,5,0.000324
+Insertion Sort,reverse,100,6,0.000329
+Insertion Sort,reverse,100,7,0.000329
+Insertion Sort,reverse,100,8,0.000323
+Insertion Sort,reverse,100,9,0.000329
+Insertion Sort,reverse,100,10,0.00037
+Insertion Sort,reverse,100,11,0.000324
+Insertion Sort,reverse,100,12,0.000328
+Insertion Sort,reverse,100,13,0.000337
+Insertion Sort,reverse,100,14,0.000324
+Insertion Sort,reverse,500,0,0.009104
+Insertion Sort,reverse,500,1,0.00911
+Insertion Sort,reverse,500,2,0.009037
+Insertion Sort,reverse,500,3,0.009393
+Insertion Sort,reverse,500,4,0.009084
+Insertion Sort,reverse,500,5,0.009024
+Insertion Sort,reverse,500,6,0.008989
+Insertion Sort,reverse,500,7,0.009081
+Insertion Sort,reverse,500,8,0.009054
+Insertion Sort,reverse,500,9,0.009087
+Insertion Sort,reverse,500,10,0.009184
+Insertion Sort,reverse,500,11,0.009019
+Insertion Sort,reverse,500,12,0.0092
+Insertion Sort,reverse,500,13,0.009387
+Insertion Sort,reverse,500,14,0.009288
+Insertion Sort,reverse,1000,0,0.040552
+Insertion Sort,reverse,1000,1,0.040189
+Insertion Sort,reverse,1000,2,0.058235
+Insertion Sort,reverse,1000,3,0.039903
+Insertion Sort,reverse,1000,4,0.04056
+Insertion Sort,reverse,1000,5,0.040464
+Insertion Sort,reverse,1000,6,0.042564
+Insertion Sort,reverse,1000,7,0.04047
+Insertion Sort,reverse,1000,8,0.040423
+Insertion Sort,reverse,1000,9,0.044736
+Insertion Sort,reverse,1000,10,0.040665
+Insertion Sort,reverse,1000,11,0.040335
+Insertion Sort,reverse,1000,12,0.040815
+Insertion Sort,reverse,1000,13,0.04048
+Insertion Sort,reverse,1000,14,0.041095
+Insertion Sort,reverse,5000,0,1.14332
+Insertion Sort,reverse,5000,1,1.165501
+Insertion Sort,reverse,5000,2,1.157319
+Insertion Sort,reverse,5000,3,2.230521
+Insertion Sort,reverse,5000,4,1.446873
+Insertion Sort,reverse,5000,5,1.169535
+Insertion Sort,reverse,5000,6,1.15009
+Insertion Sort,reverse,5000,7,1.169328
+Insertion Sort,reverse,5000,8,1.145863
+Insertion Sort,reverse,5000,9,1.190662
+Insertion Sort,reverse,5000,10,1.192181
+Insertion Sort,reverse,5000,11,1.162059
+Insertion Sort,reverse,5000,12,1.30791
+Insertion Sort,reverse,5000,13,2.256155
+Insertion Sort,reverse,5000,14,1.29708
+Insertion Sort,reverse,10000,0,4.755352
+Insertion Sort,reverse,10000,1,5.219481
+Insertion Sort,reverse,10000,2,5.635131
+Insertion Sort,reverse,10000,3,4.758231
+Insertion Sort,reverse,10000,4,6.135881
+Insertion Sort,reverse,10000,5,4.742226
+Insertion Sort,reverse,10000,6,5.85915
+Insertion Sort,reverse,10000,7,5.024363
+Insertion Sort,reverse,10000,8,4.726648
+Insertion Sort,reverse,10000,9,6.146731
+Insertion Sort,reverse,10000,10,4.771332
+Insertion Sort,reverse,10000,11,6.094166
+Insertion Sort,reverse,10000,12,4.788192
+Insertion Sort,reverse,10000,13,4.755388
+Insertion Sort,reverse,10000,14,6.085637
+Insertion Sort,nearly_sorted,100,0,1.1e-05
+Insertion Sort,nearly_sorted,100,1,9e-06
+Insertion Sort,nearly_sorted,100,2,9e-06
+Insertion Sort,nearly_sorted,100,3,9e-06
+Insertion Sort,nearly_sorted,100,4,9e-06
+Insertion Sort,nearly_sorted,100,5,9e-06
+Insertion Sort,nearly_sorted,100,6,9e-06
+Insertion Sort,nearly_sorted,100,7,9e-06
+Insertion Sort,nearly_sorted,100,8,9e-06
+Insertion Sort,nearly_sorted,100,9,9e-06
+Insertion Sort,nearly_sorted,100,10,9e-06
+Insertion Sort,nearly_sorted,100,11,9e-06
+Insertion Sort,nearly_sorted,100,12,9e-06
+Insertion Sort,nearly_sorted,100,13,9e-06
+Insertion Sort,nearly_sorted,100,14,9e-06
+Insertion Sort,nearly_sorted,500,0,5.4e-05
+Insertion Sort,nearly_sorted,500,1,5.2e-05
+Insertion Sort,nearly_sorted,500,2,6.6e-05
+Insertion Sort,nearly_sorted,500,3,5.1e-05
+Insertion Sort,nearly_sorted,500,4,5.2e-05
+Insertion Sort,nearly_sorted,500,5,5.1e-05
+Insertion Sort,nearly_sorted,500,6,5.8e-05
+Insertion Sort,nearly_sorted,500,7,5.2e-05
+Insertion Sort,nearly_sorted,500,8,5.1e-05
+Insertion Sort,nearly_sorted,500,9,5.1e-05
+Insertion Sort,nearly_sorted,500,10,5.1e-05
+Insertion Sort,nearly_sorted,500,11,5.1e-05
+Insertion Sort,nearly_sorted,500,12,5.2e-05
+Insertion Sort,nearly_sorted,500,13,5.1e-05
+Insertion Sort,nearly_sorted,500,14,5.1e-05
+Insertion Sort,nearly_sorted,1000,0,0.000112
+Insertion Sort,nearly_sorted,1000,1,0.000113
+Insertion Sort,nearly_sorted,1000,2,0.000113
+Insertion Sort,nearly_sorted,1000,3,0.00011
+Insertion Sort,nearly_sorted,1000,4,0.000112
+Insertion Sort,nearly_sorted,1000,5,0.000117
+Insertion Sort,nearly_sorted,1000,6,0.000112
+Insertion Sort,nearly_sorted,1000,7,0.000113
+Insertion Sort,nearly_sorted,1000,8,0.000114
+Insertion Sort,nearly_sorted,1000,9,0.000111
+Insertion Sort,nearly_sorted,1000,10,0.000111
+Insertion Sort,nearly_sorted,1000,11,0.000108
+Insertion Sort,nearly_sorted,1000,12,0.000113
+Insertion Sort,nearly_sorted,1000,13,0.000116
+Insertion Sort,nearly_sorted,1000,14,0.000112
+Insertion Sort,nearly_sorted,5000,0,0.000679
+Insertion Sort,nearly_sorted,5000,1,0.000602
+Insertion Sort,nearly_sorted,5000,2,0.000566
+Insertion Sort,nearly_sorted,5000,3,0.000601
+Insertion Sort,nearly_sorted,5000,4,0.000633
+Insertion Sort,nearly_sorted,5000,5,0.000631
+Insertion Sort,nearly_sorted,5000,6,0.000576
+Insertion Sort,nearly_sorted,5000,7,0.000593
+Insertion Sort,nearly_sorted,5000,8,0.00061
+Insertion Sort,nearly_sorted,5000,9,0.000601
+Insertion Sort,nearly_sorted,5000,10,0.000573
+Insertion Sort,nearly_sorted,5000,11,0.000592
+Insertion Sort,nearly_sorted,5000,12,0.000574
+Insertion Sort,nearly_sorted,5000,13,0.000599
+Insertion Sort,nearly_sorted,5000,14,0.000573
+Insertion Sort,nearly_sorted,10000,0,0.001236
+Insertion Sort,nearly_sorted,10000,1,0.001186
+Insertion Sort,nearly_sorted,10000,2,0.001242
+Insertion Sort,nearly_sorted,10000,3,0.001249
+Insertion Sort,nearly_sorted,10000,4,0.001229
+Insertion Sort,nearly_sorted,10000,5,0.001172
+Insertion Sort,nearly_sorted,10000,6,0.001344
+Insertion Sort,nearly_sorted,10000,7,0.001234
+Insertion Sort,nearly_sorted,10000,8,0.001319
+Insertion Sort,nearly_sorted,10000,9,0.001309
+Insertion Sort,nearly_sorted,10000,10,0.001272
+Insertion Sort,nearly_sorted,10000,11,0.001428
+Insertion Sort,nearly_sorted,10000,12,0.002166
+Insertion Sort,nearly_sorted,10000,13,0.001507
+Insertion Sort,nearly_sorted,10000,14,0.001283
+Insertion Sort,constant,100,0,1e-05
+Insertion Sort,constant,100,1,9e-06
+Insertion Sort,constant,100,2,8e-06
+Insertion Sort,constant,100,3,8e-06
+Insertion Sort,constant,100,4,8e-06
+Insertion Sort,constant,100,5,8e-06
+Insertion Sort,constant,100,6,8e-06
+Insertion Sort,constant,100,7,1.5e-05
+Insertion Sort,constant,100,8,8e-06
+Insertion Sort,constant,100,9,8e-06
+Insertion Sort,constant,100,10,8e-06
+Insertion Sort,constant,100,11,8e-06
+Insertion Sort,constant,100,12,8e-06
+Insertion Sort,constant,100,13,8e-06
+Insertion Sort,constant,100,14,8e-06
+Insertion Sort,constant,500,0,5.5e-05
+Insertion Sort,constant,500,1,5.2e-05
+Insertion Sort,constant,500,2,4.9e-05
+Insertion Sort,constant,500,3,4.9e-05
+Insertion Sort,constant,500,4,4.9e-05
+Insertion Sort,constant,500,5,5e-05
+Insertion Sort,constant,500,6,4.9e-05
+Insertion Sort,constant,500,7,4.9e-05
+Insertion Sort,constant,500,8,9.1e-05
+Insertion Sort,constant,500,9,4.9e-05
+Insertion Sort,constant,500,10,4.9e-05
+Insertion Sort,constant,500,11,4.9e-05
+Insertion Sort,constant,500,12,4.9e-05
+Insertion Sort,constant,500,13,5.4e-05
+Insertion Sort,constant,500,14,4.9e-05
+Insertion Sort,constant,1000,0,0.000111
+Insertion Sort,constant,1000,1,0.000108
+Insertion Sort,constant,1000,2,0.000108
+Insertion Sort,constant,1000,3,0.000108
+Insertion Sort,constant,1000,4,0.000149
+Insertion Sort,constant,1000,5,0.000109
+Insertion Sort,constant,1000,6,0.000113
+Insertion Sort,constant,1000,7,0.000109
+Insertion Sort,constant,1000,8,0.00011
+Insertion Sort,constant,1000,9,0.000108
+Insertion Sort,constant,1000,10,0.000109
+Insertion Sort,constant,1000,11,0.000108
+Insertion Sort,constant,1000,12,0.000146
+Insertion Sort,constant,1000,13,0.00011
+Insertion Sort,constant,1000,14,0.000113
+Insertion Sort,constant,5000,0,0.000588
+Insertion Sort,constant,5000,1,0.000586
+Insertion Sort,constant,5000,2,0.000629
+Insertion Sort,constant,5000,3,0.000608
+Insertion Sort,constant,5000,4,0.000602
+Insertion Sort,constant,5000,5,0.000589
+Insertion Sort,constant,5000,6,0.000594
+Insertion Sort,constant,5000,7,0.000591
+Insertion Sort,constant,5000,8,0.000595
+Insertion Sort,constant,5000,9,0.00059
+Insertion Sort,constant,5000,10,0.000589
+Insertion Sort,constant,5000,11,0.00059
+Insertion Sort,constant,5000,12,0.000602
+Insertion Sort,constant,5000,13,0.000587
+Insertion Sort,constant,5000,14,0.000588
+Insertion Sort,constant,10000,0,0.001239
+Insertion Sort,constant,10000,1,0.001687
+Insertion Sort,constant,10000,2,0.002198
+Insertion Sort,constant,10000,3,0.001274
+Insertion Sort,constant,10000,4,0.00126
+Insertion Sort,constant,10000,5,0.002128
+Insertion Sort,constant,10000,6,0.002245
+Insertion Sort,constant,10000,7,0.002287
+Insertion Sort,constant,10000,8,0.0022
+Insertion Sort,constant,10000,9,0.001804
+Insertion Sort,constant,10000,10,0.002203
+Insertion Sort,constant,10000,11,0.002335
+Insertion Sort,constant,10000,12,0.002156
+Insertion Sort,constant,10000,13,0.0021
+Insertion Sort,constant,10000,14,0.00219
+Selection Sort,random,100,0,0.000329
+Selection Sort,random,100,1,0.000335
+Selection Sort,random,100,2,0.000327
+Selection Sort,random,100,3,0.000352
+Selection Sort,random,100,4,0.000328
+Selection Sort,random,100,5,0.00032
+Selection Sort,random,100,6,0.000328
+Selection Sort,random,100,7,0.000322
+Selection Sort,random,100,8,0.000334
+Selection Sort,random,100,9,0.000321
+Selection Sort,random,100,10,0.000301
+Selection Sort,random,100,11,0.000269
+Selection Sort,random,100,12,0.000321
+Selection Sort,random,100,13,0.000323
+Selection Sort,random,100,14,0.000303
+Selection Sort,random,500,0,0.006354
+Selection Sort,random,500,1,0.005291
+Selection Sort,random,500,2,0.005553
+Selection Sort,random,500,3,0.005491
+Selection Sort,random,500,4,0.005475
+Selection Sort,random,500,5,0.005326
+Selection Sort,random,500,6,0.005446
+Selection Sort,random,500,7,0.005343
+Selection Sort,random,500,8,0.005464
+Selection Sort,random,500,9,0.005399
+Selection Sort,random,500,10,0.005455
+Selection Sort,random,500,11,0.005491
+Selection Sort,random,500,12,0.005212
+Selection Sort,random,500,13,0.005457
+Selection Sort,random,500,14,0.005332
+Selection Sort,random,1000,0,0.022697
+Selection Sort,random,1000,1,0.021612
+Selection Sort,random,1000,2,0.022395
+Selection Sort,random,1000,3,0.024722
+Selection Sort,random,1000,4,0.025364
+Selection Sort,random,1000,5,0.022296
+Selection Sort,random,1000,6,0.022938
+Selection Sort,random,1000,7,0.021882
+Selection Sort,random,1000,8,0.02248
+Selection Sort,random,1000,9,0.021853
+Selection Sort,random,1000,10,0.021907
+Selection Sort,random,1000,11,0.021884
+Selection Sort,random,1000,12,0.022348
+Selection Sort,random,1000,13,0.022438
+Selection Sort,random,1000,14,0.021797
+Selection Sort,random,5000,0,0.558371
+Selection Sort,random,5000,1,0.564832
+Selection Sort,random,5000,2,0.575276
+Selection Sort,random,5000,3,0.569455
+Selection Sort,random,5000,4,0.599212
+Selection Sort,random,5000,5,0.575383
+Selection Sort,random,5000,6,0.572668
+Selection Sort,random,5000,7,0.573152
+Selection Sort,random,5000,8,0.565883
+Selection Sort,random,5000,9,0.585354
+Selection Sort,random,5000,10,0.645825
+Selection Sort,random,5000,11,1.097323
+Selection Sort,random,5000,12,1.095554
+Selection Sort,random,5000,13,0.791346
+Selection Sort,random,5000,14,0.558316
+Selection Sort,random,10000,0,2.352157
+Selection Sort,random,10000,1,2.253338
+Selection Sort,random,10000,2,2.329871
+Selection Sort,random,10000,3,2.33735
+Selection Sort,random,10000,4,3.651546
+Selection Sort,random,10000,5,2.248085
+Selection Sort,random,10000,6,2.375512
+Selection Sort,random,10000,7,2.270801
+Selection Sort,random,10000,8,2.523496
+Selection Sort,random,10000,9,3.505643
+Selection Sort,random,10000,10,2.349728
+Selection Sort,random,10000,11,2.257261
+Selection Sort,random,10000,12,2.334177
+Selection Sort,random,10000,13,2.444019
+Selection Sort,random,10000,14,3.572964
+Selection Sort,sorted,100,0,0.000175
+Selection Sort,sorted,100,1,0.000166
+Selection Sort,sorted,100,2,0.000166
+Selection Sort,sorted,100,3,0.000165
+Selection Sort,sorted,100,4,0.000176
+Selection Sort,sorted,100,5,0.000191
+Selection Sort,sorted,100,6,0.000165
+Selection Sort,sorted,100,7,0.000169
+Selection Sort,sorted,100,8,0.000186
+Selection Sort,sorted,100,9,0.000176
+Selection Sort,sorted,100,10,0.000165
+Selection Sort,sorted,100,11,0.000169
+Selection Sort,sorted,100,12,0.000168
+Selection Sort,sorted,100,13,0.000166
+Selection Sort,sorted,100,14,0.000165
+Selection Sort,sorted,500,0,0.005293
+Selection Sort,sorted,500,1,0.005222
+Selection Sort,sorted,500,2,0.005212
+Selection Sort,sorted,500,3,0.00509
+Selection Sort,sorted,500,4,0.005241
+Selection Sort,sorted,500,5,0.005178
+Selection Sort,sorted,500,6,0.005182
+Selection Sort,sorted,500,7,0.005209
+Selection Sort,sorted,500,8,0.0052
+Selection Sort,sorted,500,9,0.005081
+Selection Sort,sorted,500,10,0.00562
+Selection Sort,sorted,500,11,0.005195
+Selection Sort,sorted,500,12,0.005188
+Selection Sort,sorted,500,13,0.005255
+Selection Sort,sorted,500,14,0.005177
+Selection Sort,sorted,1000,0,0.022202
+Selection Sort,sorted,1000,1,0.021478
+Selection Sort,sorted,1000,2,0.022399
+Selection Sort,sorted,1000,3,0.022031
+Selection Sort,sorted,1000,4,0.022174
+Selection Sort,sorted,1000,5,0.021489
+Selection Sort,sorted,1000,6,0.023078
+Selection Sort,sorted,1000,7,0.023854
+Selection Sort,sorted,1000,8,0.022466
+Selection Sort,sorted,1000,9,0.0218
+Selection Sort,sorted,1000,10,0.022368
+Selection Sort,sorted,1000,11,0.02155
+Selection Sort,sorted,1000,12,0.022504
+Selection Sort,sorted,1000,13,0.021498
+Selection Sort,sorted,1000,14,0.022142
+Selection Sort,sorted,5000,0,0.582802
+Selection Sort,sorted,5000,1,0.574224
+Selection Sort,sorted,5000,2,0.566138
+Selection Sort,sorted,5000,3,0.570316
+Selection Sort,sorted,5000,4,0.572749
+Selection Sort,sorted,5000,5,0.570857
+Selection Sort,sorted,5000,6,0.567839
+Selection Sort,sorted,5000,7,0.594707
+Selection Sort,sorted,5000,8,0.551832
+Selection Sort,sorted,5000,9,0.588878
+Selection Sort,sorted,5000,10,0.54833
+Selection Sort,sorted,5000,11,0.586322
+Selection Sort,sorted,5000,12,0.55542
+Selection Sort,sorted,5000,13,0.585957
+Selection Sort,sorted,5000,14,0.577692
+Selection Sort,sorted,10000,0,3.676984
+Selection Sort,sorted,10000,1,2.268045
+Selection Sort,sorted,10000,2,2.318652
+Selection Sort,sorted,10000,3,2.247738
+Selection Sort,sorted,10000,4,2.337777
+Selection Sort,sorted,10000,5,3.629307
+Selection Sort,sorted,10000,6,2.325261
+Selection Sort,sorted,10000,7,2.269593
+Selection Sort,sorted,10000,8,2.414862
+Selection Sort,sorted,10000,9,2.244906
+Selection Sort,sorted,10000,10,3.698322
+Selection Sort,sorted,10000,11,2.315239
+Selection Sort,sorted,10000,12,2.34073
+Selection Sort,sorted,10000,13,2.320662
+Selection Sort,sorted,10000,14,2.372075
+Selection Sort,reverse,100,0,0.000327
+Selection Sort,reverse,100,1,0.000322
+Selection Sort,reverse,100,2,0.000344
+Selection Sort,reverse,100,3,0.000349
+Selection Sort,reverse,100,4,0.000332
+Selection Sort,reverse,100,5,0.00035
+Selection Sort,reverse,100,6,0.000321
+Selection Sort,reverse,100,7,0.000316
+Selection Sort,reverse,100,8,0.000899
+Selection Sort,reverse,100,9,0.000339
+Selection Sort,reverse,100,10,0.000331
+Selection Sort,reverse,100,11,0.000267
+Selection Sort,reverse,100,12,0.000176
+Selection Sort,reverse,100,13,0.000229
+Selection Sort,reverse,100,14,0.000285
+Selection Sort,reverse,500,0,0.009838
+Selection Sort,reverse,500,1,0.011575
+Selection Sort,reverse,500,2,0.009345
+Selection Sort,reverse,500,3,0.008982
+Selection Sort,reverse,500,4,0.012034
+Selection Sort,reverse,500,5,0.011068
+Selection Sort,reverse,500,6,0.015515
+Selection Sort,reverse,500,7,0.015077
+Selection Sort,reverse,500,8,0.01204
+Selection Sort,reverse,500,9,0.012979
+Selection Sort,reverse,500,10,0.010442
+Selection Sort,reverse,500,11,0.010227
+Selection Sort,reverse,500,12,0.01031
+Selection Sort,reverse,500,13,0.010875
+Selection Sort,reverse,500,14,0.011474
+Selection Sort,reverse,1000,0,0.047049
+Selection Sort,reverse,1000,1,0.049307
+Selection Sort,reverse,1000,2,0.0457
+Selection Sort,reverse,1000,3,0.041463
+Selection Sort,reverse,1000,4,0.048592
+Selection Sort,reverse,1000,5,0.049028
+Selection Sort,reverse,1000,6,0.043789
+Selection Sort,reverse,1000,7,0.044112
+Selection Sort,reverse,1000,8,0.045701
+Selection Sort,reverse,1000,9,0.046858
+Selection Sort,reverse,1000,10,0.045195
+Selection Sort,reverse,1000,11,0.044394
+Selection Sort,reverse,1000,12,0.045639
+Selection Sort,reverse,1000,13,0.044606
+Selection Sort,reverse,1000,14,0.045414
+Selection Sort,reverse,5000,0,1.183274
+Selection Sort,reverse,5000,1,0.958203
+Selection Sort,reverse,5000,2,0.59938
+Selection Sort,reverse,5000,3,0.602054
+Selection Sort,reverse,5000,4,0.602513
+Selection Sort,reverse,5000,5,0.598072
+Selection Sort,reverse,5000,6,0.599082
+Selection Sort,reverse,5000,7,0.61924
+Selection Sort,reverse,5000,8,0.597792
+Selection Sort,reverse,5000,9,0.616033
+Selection Sort,reverse,5000,10,0.602255
+Selection Sort,reverse,5000,11,0.628026
+Selection Sort,reverse,5000,12,0.601043
+Selection Sort,reverse,5000,13,0.602674
+Selection Sort,reverse,5000,14,0.59406
+Selection Sort,reverse,10000,0,2.928425
+Selection Sort,reverse,10000,1,3.289843
+Selection Sort,reverse,10000,2,2.437567
+Selection Sort,reverse,10000,3,2.392165
+Selection Sort,reverse,10000,4,2.466452
+Selection Sort,reverse,10000,5,3.391194
+Selection Sort,reverse,10000,6,2.827422
+Selection Sort,reverse,10000,7,2.367391
+Selection Sort,reverse,10000,8,2.436633
+Selection Sort,reverse,10000,9,2.374906
+Selection Sort,reverse,10000,10,3.821807
+Selection Sort,reverse,10000,11,2.367924
+Selection Sort,reverse,10000,12,2.47972
+Selection Sort,reverse,10000,13,2.358406
+Selection Sort,reverse,10000,14,2.431348
+Selection Sort,nearly_sorted,100,0,0.000167
+Selection Sort,nearly_sorted,100,1,0.000166
+Selection Sort,nearly_sorted,100,2,0.00018
+Selection Sort,nearly_sorted,100,3,0.000168
+Selection Sort,nearly_sorted,100,4,0.00017
+Selection Sort,nearly_sorted,100,5,0.000165
+Selection Sort,nearly_sorted,100,6,0.000165
+Selection Sort,nearly_sorted,100,7,0.000207
+Selection Sort,nearly_sorted,100,8,0.000167
+Selection Sort,nearly_sorted,100,9,0.000165
+Selection Sort,nearly_sorted,100,10,0.000169
+Selection Sort,nearly_sorted,100,11,0.000165
+Selection Sort,nearly_sorted,100,12,0.000173
+Selection Sort,nearly_sorted,100,13,0.000167
+Selection Sort,nearly_sorted,100,14,0.000165
+Selection Sort,nearly_sorted,500,0,0.005606
+Selection Sort,nearly_sorted,500,1,0.005487
+Selection Sort,nearly_sorted,500,2,0.005457
+Selection Sort,nearly_sorted,500,3,0.005274
+Selection Sort,nearly_sorted,500,4,0.005251
+Selection Sort,nearly_sorted,500,5,0.005308
+Selection Sort,nearly_sorted,500,6,0.005266
+Selection Sort,nearly_sorted,500,7,0.00526
+Selection Sort,nearly_sorted,500,8,0.005225
+Selection Sort,nearly_sorted,500,9,0.005319
+Selection Sort,nearly_sorted,500,10,0.005237
+Selection Sort,nearly_sorted,500,11,0.005255
+Selection Sort,nearly_sorted,500,12,0.005265
+Selection Sort,nearly_sorted,500,13,0.005278
+Selection Sort,nearly_sorted,500,14,0.005275
+Selection Sort,nearly_sorted,1000,0,0.022199
+Selection Sort,nearly_sorted,1000,1,0.034926
+Selection Sort,nearly_sorted,1000,2,0.024329
+Selection Sort,nearly_sorted,1000,3,0.021488
+Selection Sort,nearly_sorted,1000,4,0.022078
+Selection Sort,nearly_sorted,1000,5,0.023058
+Selection Sort,nearly_sorted,1000,6,0.027469
+Selection Sort,nearly_sorted,1000,7,0.040313
+Selection Sort,nearly_sorted,1000,8,0.039682
+Selection Sort,nearly_sorted,1000,9,0.040217
+Selection Sort,nearly_sorted,1000,10,0.043299
+Selection Sort,nearly_sorted,1000,11,0.039275
+Selection Sort,nearly_sorted,1000,12,0.044572
+Selection Sort,nearly_sorted,1000,13,0.044707
+Selection Sort,nearly_sorted,1000,14,0.041561
+Selection Sort,nearly_sorted,5000,0,1.09103
+Selection Sort,nearly_sorted,5000,1,1.109967
+Selection Sort,nearly_sorted,5000,2,0.709184
+Selection Sort,nearly_sorted,5000,3,0.577288
+Selection Sort,nearly_sorted,5000,4,0.568229
+Selection Sort,nearly_sorted,5000,5,0.568753
+Selection Sort,nearly_sorted,5000,6,0.599918
+Selection Sort,nearly_sorted,5000,7,0.5647
+Selection Sort,nearly_sorted,5000,8,0.57213
+Selection Sort,nearly_sorted,5000,9,0.579325
+Selection Sort,nearly_sorted,5000,10,0.55933
+Selection Sort,nearly_sorted,5000,11,0.583416
+Selection Sort,nearly_sorted,5000,12,0.553471
+Selection Sort,nearly_sorted,5000,13,0.598171
+Selection Sort,nearly_sorted,5000,14,0.546068
+Selection Sort,nearly_sorted,10000,0,2.338655
+Selection Sort,nearly_sorted,10000,1,3.622687
+Selection Sort,nearly_sorted,10000,2,2.339305
+Selection Sort,nearly_sorted,10000,3,2.371338
+Selection Sort,nearly_sorted,10000,4,2.314295
+Selection Sort,nearly_sorted,10000,5,2.280057
+Selection Sort,nearly_sorted,10000,6,3.729884
+Selection Sort,nearly_sorted,10000,7,2.258524
+Selection Sort,nearly_sorted,10000,8,2.322928
+Selection Sort,nearly_sorted,10000,9,2.261869
+Selection Sort,nearly_sorted,10000,10,2.331567
+Selection Sort,nearly_sorted,10000,11,3.648778
+Selection Sort,nearly_sorted,10000,12,2.327122
+Selection Sort,nearly_sorted,10000,13,2.257338
+Selection Sort,nearly_sorted,10000,14,2.343087
+Selection Sort,constant,100,0,0.000167
+Selection Sort,constant,100,1,0.000222
+Selection Sort,constant,100,2,0.000183
+Selection Sort,constant,100,3,0.000159
+Selection Sort,constant,100,4,0.000181
+Selection Sort,constant,100,5,0.000165
+Selection Sort,constant,100,6,0.000181
+Selection Sort,constant,100,7,0.000159
+Selection Sort,constant,100,8,0.000164
+Selection Sort,constant,100,9,0.000179
+Selection Sort,constant,100,10,0.000176
+Selection Sort,constant,100,11,0.000158
+Selection Sort,constant,100,12,0.000224
+Selection Sort,constant,100,13,0.000169
+Selection Sort,constant,100,14,0.000164
+Selection Sort,constant,500,0,0.005304
+Selection Sort,constant,500,1,0.005229
+Selection Sort,constant,500,2,0.005263
+Selection Sort,constant,500,3,0.005313
+Selection Sort,constant,500,4,0.005288
+Selection Sort,constant,500,5,0.005258
+Selection Sort,constant,500,6,0.005277
+Selection Sort,constant,500,7,0.005275
+Selection Sort,constant,500,8,0.005225
+Selection Sort,constant,500,9,0.005255
+Selection Sort,constant,500,10,0.005261
+Selection Sort,constant,500,11,0.005239
+Selection Sort,constant,500,12,0.005393
+Selection Sort,constant,500,13,0.00557
+Selection Sort,constant,500,14,0.005249
+Selection Sort,constant,1000,0,0.028902
+Selection Sort,constant,1000,1,0.030617
+Selection Sort,constant,1000,2,0.02259
+Selection Sort,constant,1000,3,0.022728
+Selection Sort,constant,1000,4,0.022589
+Selection Sort,constant,1000,5,0.022546
+Selection Sort,constant,1000,6,0.022615
+Selection Sort,constant,1000,7,0.024215
+Selection Sort,constant,1000,8,0.022736
+Selection Sort,constant,1000,9,0.022511
+Selection Sort,constant,1000,10,0.02261
+Selection Sort,constant,1000,11,0.022533
+Selection Sort,constant,1000,12,0.0228
+Selection Sort,constant,1000,13,0.022884
+Selection Sort,constant,1000,14,0.022626
+Selection Sort,constant,5000,0,0.594242
+Selection Sort,constant,5000,1,0.59519
+Selection Sort,constant,5000,2,0.596397
+Selection Sort,constant,5000,3,0.672265
+Selection Sort,constant,5000,4,1.082053
+Selection Sort,constant,5000,5,1.131321
+Selection Sort,constant,5000,6,0.799695
+Selection Sort,constant,5000,7,0.592124
+Selection Sort,constant,5000,8,0.588699
+Selection Sort,constant,5000,9,0.602263
+Selection Sort,constant,5000,10,0.58517
+Selection Sort,constant,5000,11,0.605069
+Selection Sort,constant,5000,12,0.579322
+Selection Sort,constant,5000,13,0.604096
+Selection Sort,constant,5000,14,0.598778
+Selection Sort,constant,10000,0,2.37996
+Selection Sort,constant,10000,1,2.363931
+Selection Sort,constant,10000,2,3.727877
+Selection Sort,constant,10000,3,2.377416
+Selection Sort,constant,10000,4,2.371196
+Selection Sort,constant,10000,5,2.370306
+Selection Sort,constant,10000,6,2.536236
+Selection Sort,constant,10000,7,3.565758
+Selection Sort,constant,10000,8,2.387427
+Selection Sort,constant,10000,9,2.367737
+Selection Sort,constant,10000,10,2.358928
+Selection Sort,constant,10000,11,2.801304
+Selection Sort,constant,10000,12,3.272963
+Selection Sort,constant,10000,13,2.383268
+Selection Sort,constant,10000,14,2.35793
+Bubble Sort,random,100,0,0.000409
+Bubble Sort,random,100,1,0.000384
+Bubble Sort,random,100,2,0.000361
+Bubble Sort,random,100,3,0.000345
+Bubble Sort,random,100,4,0.000368
+Bubble Sort,random,100,5,0.000375
+Bubble Sort,random,100,6,0.000382
+Bubble Sort,random,100,7,0.000375
+Bubble Sort,random,100,8,0.000358
+Bubble Sort,random,100,9,0.000409
+Bubble Sort,random,100,10,0.000375
+Bubble Sort,random,100,11,0.000394
+Bubble Sort,random,100,12,0.00037
+Bubble Sort,random,100,13,0.000356
+Bubble Sort,random,100,14,0.000374
+Bubble Sort,random,500,0,0.017914
+Bubble Sort,random,500,1,0.016896
+Bubble Sort,random,500,2,0.010441
+Bubble Sort,random,500,3,0.010275
+Bubble Sort,random,500,4,0.011321
+Bubble Sort,random,500,5,0.012785
+Bubble Sort,random,500,6,0.01059
+Bubble Sort,random,500,7,0.010187
+Bubble Sort,random,500,8,0.010192
+Bubble Sort,random,500,9,0.010339
+Bubble Sort,random,500,10,0.010576
+Bubble Sort,random,500,11,0.010576
+Bubble Sort,random,500,12,0.010091
+Bubble Sort,random,500,13,0.010303
+Bubble Sort,random,500,14,0.011017
+Bubble Sort,random,1000,0,0.047146
+Bubble Sort,random,1000,1,0.046308
+Bubble Sort,random,1000,2,0.048124
+Bubble Sort,random,1000,3,0.04997
+Bubble Sort,random,1000,4,0.048117
+Bubble Sort,random,1000,5,0.048347
+Bubble Sort,random,1000,6,0.049094
+Bubble Sort,random,1000,7,0.047234
+Bubble Sort,random,1000,8,0.047434
+Bubble Sort,random,1000,9,0.046385
+Bubble Sort,random,1000,10,0.050461
+Bubble Sort,random,1000,11,0.046265
+Bubble Sort,random,1000,12,0.046239
+Bubble Sort,random,1000,13,0.045892
+Bubble Sort,random,1000,14,0.046131
+Bubble Sort,random,5000,0,1.337314
+Bubble Sort,random,5000,1,1.318888
+Bubble Sort,random,5000,2,2.226484
+Bubble Sort,random,5000,3,1.862385
+Bubble Sort,random,5000,4,1.317359
+Bubble Sort,random,5000,5,1.37004
+Bubble Sort,random,5000,6,1.328544
+Bubble Sort,random,5000,7,1.362775
+Bubble Sort,random,5000,8,1.309394
+Bubble Sort,random,5000,9,1.380108
+Bubble Sort,random,5000,10,1.5362
+Bubble Sort,random,5000,11,2.489151
+Bubble Sort,random,5000,12,1.335014
+Bubble Sort,random,5000,13,1.375357
+Bubble Sort,random,5000,14,1.308067
+Bubble Sort,random,10000,0,5.598711
+Bubble Sort,random,10000,1,6.729585
+Bubble Sort,random,10000,2,5.614294
+Bubble Sort,random,10000,3,6.71076
+Bubble Sort,random,10000,4,5.57288
+Bubble Sort,random,10000,5,6.750423
+Bubble Sort,random,10000,6,5.602205
+Bubble Sort,random,10000,7,6.78411
+Bubble Sort,random,10000,8,5.573866
+Bubble Sort,random,10000,9,6.783954
+Bubble Sort,random,10000,10,5.608254
+Bubble Sort,random,10000,11,6.693566
+Bubble Sort,random,10000,12,5.611523
+Bubble Sort,random,10000,13,6.703276
+Bubble Sort,random,10000,14,5.543542
+Bubble Sort,sorted,100,0,7e-06
+Bubble Sort,sorted,100,1,5e-06
+Bubble Sort,sorted,100,2,5e-06
+Bubble Sort,sorted,100,3,5e-06
+Bubble Sort,sorted,100,4,5e-06
+Bubble Sort,sorted,100,5,5e-06
+Bubble Sort,sorted,100,6,5e-06
+Bubble Sort,sorted,100,7,5e-06
+Bubble Sort,sorted,100,8,4e-06
+Bubble Sort,sorted,100,9,5e-06
+Bubble Sort,sorted,100,10,5e-06
+Bubble Sort,sorted,100,11,5e-06
+Bubble Sort,sorted,100,12,5e-06
+Bubble Sort,sorted,100,13,5e-06
+Bubble Sort,sorted,100,14,5e-06
+Bubble Sort,sorted,500,0,4.1e-05
+Bubble Sort,sorted,500,1,2.9e-05
+Bubble Sort,sorted,500,2,2.9e-05
+Bubble Sort,sorted,500,3,2.8e-05
+Bubble Sort,sorted,500,4,3.5e-05
+Bubble Sort,sorted,500,5,2.8e-05
+Bubble Sort,sorted,500,6,2.8e-05
+Bubble Sort,sorted,500,7,2.8e-05
+Bubble Sort,sorted,500,8,2.8e-05
+Bubble Sort,sorted,500,9,2.8e-05
+Bubble Sort,sorted,500,10,2.8e-05
+Bubble Sort,sorted,500,11,2.7e-05
+Bubble Sort,sorted,500,12,2.8e-05
+Bubble Sort,sorted,500,13,2.8e-05
+Bubble Sort,sorted,500,14,2.8e-05
+Bubble Sort,sorted,1000,0,6.4e-05
+Bubble Sort,sorted,1000,1,6.3e-05
+Bubble Sort,sorted,1000,2,7.3e-05
+Bubble Sort,sorted,1000,3,6.2e-05
+Bubble Sort,sorted,1000,4,6.3e-05
+Bubble Sort,sorted,1000,5,6.8e-05
+Bubble Sort,sorted,1000,6,6.2e-05
+Bubble Sort,sorted,1000,7,6.2e-05
+Bubble Sort,sorted,1000,8,6.3e-05
+Bubble Sort,sorted,1000,9,6.3e-05
+Bubble Sort,sorted,1000,10,6.2e-05
+Bubble Sort,sorted,1000,11,6.3e-05
+Bubble Sort,sorted,1000,12,6.2e-05
+Bubble Sort,sorted,1000,13,7.1e-05
+Bubble Sort,sorted,1000,14,6.3e-05
+Bubble Sort,sorted,5000,0,0.000412
+Bubble Sort,sorted,5000,1,0.000348
+Bubble Sort,sorted,5000,2,0.000352
+Bubble Sort,sorted,5000,3,0.000388
+Bubble Sort,sorted,5000,4,0.000343
+Bubble Sort,sorted,5000,5,0.000351
+Bubble Sort,sorted,5000,6,0.000344
+Bubble Sort,sorted,5000,7,0.000336
+Bubble Sort,sorted,5000,8,0.00034
+Bubble Sort,sorted,5000,9,0.000337
+Bubble Sort,sorted,5000,10,0.000362
+Bubble Sort,sorted,5000,11,0.000338
+Bubble Sort,sorted,5000,12,0.000348
+Bubble Sort,sorted,5000,13,0.000335
+Bubble Sort,sorted,5000,14,0.000345
+Bubble Sort,sorted,10000,0,0.001066
+Bubble Sort,sorted,10000,1,0.000745
+Bubble Sort,sorted,10000,2,0.000721
+Bubble Sort,sorted,10000,3,0.000716
+Bubble Sort,sorted,10000,4,0.000717
+Bubble Sort,sorted,10000,5,0.000687
+Bubble Sort,sorted,10000,6,0.000699
+Bubble Sort,sorted,10000,7,0.000719
+Bubble Sort,sorted,10000,8,0.000767
+Bubble Sort,sorted,10000,9,0.000725
+Bubble Sort,sorted,10000,10,0.000715
+Bubble Sort,sorted,10000,11,0.000718
+Bubble Sort,sorted,10000,12,0.000775
+Bubble Sort,sorted,10000,13,0.000729
+Bubble Sort,sorted,10000,14,0.000722
+Bubble Sort,reverse,100,0,0.000495
+Bubble Sort,reverse,100,1,0.000457
+Bubble Sort,reverse,100,2,0.000465
+Bubble Sort,reverse,100,3,0.000456
+Bubble Sort,reverse,100,4,0.000472
+Bubble Sort,reverse,100,5,0.000479
+Bubble Sort,reverse,100,6,0.00046
+Bubble Sort,reverse,100,7,0.000459
+Bubble Sort,reverse,100,8,0.000452
+Bubble Sort,reverse,100,9,0.000498
+Bubble Sort,reverse,100,10,0.000438
+Bubble Sort,reverse,100,11,0.000509
+Bubble Sort,reverse,100,12,0.000441
+Bubble Sort,reverse,100,13,0.000518
+Bubble Sort,reverse,100,14,0.000461
+Bubble Sort,reverse,500,0,0.012889
+Bubble Sort,reverse,500,1,0.01307
+Bubble Sort,reverse,500,2,0.015017
+Bubble Sort,reverse,500,3,0.013094
+Bubble Sort,reverse,500,4,0.013276
+Bubble Sort,reverse,500,5,0.013803
+Bubble Sort,reverse,500,6,0.013683
+Bubble Sort,reverse,500,7,0.013132
+Bubble Sort,reverse,500,8,0.013395
+Bubble Sort,reverse,500,9,0.013365
+Bubble Sort,reverse,500,10,0.013075
+Bubble Sort,reverse,500,11,0.012977
+Bubble Sort,reverse,500,12,0.021075
+Bubble Sort,reverse,500,13,0.020158
+Bubble Sort,reverse,500,14,0.013912
+Bubble Sort,reverse,1000,0,0.06521
+Bubble Sort,reverse,1000,1,0.059083
+Bubble Sort,reverse,1000,2,0.061287
+Bubble Sort,reverse,1000,3,0.061131
+Bubble Sort,reverse,1000,4,0.06559
+Bubble Sort,reverse,1000,5,0.063597
+Bubble Sort,reverse,1000,6,0.06041
+Bubble Sort,reverse,1000,7,0.059294
+Bubble Sort,reverse,1000,8,0.061573
+Bubble Sort,reverse,1000,9,0.059238
+Bubble Sort,reverse,1000,10,0.060556
+Bubble Sort,reverse,1000,11,0.059107
+Bubble Sort,reverse,1000,12,0.06044
+Bubble Sort,reverse,1000,13,0.058972
+Bubble Sort,reverse,1000,14,0.060582
+Bubble Sort,reverse,5000,0,1.733572
+Bubble Sort,reverse,5000,1,2.299468
+Bubble Sort,reverse,5000,2,2.610767
+Bubble Sort,reverse,5000,3,1.766044
+Bubble Sort,reverse,5000,4,1.726749
+Bubble Sort,reverse,5000,5,1.800367
+Bubble Sort,reverse,5000,6,1.714319
+Bubble Sort,reverse,5000,7,1.80916
+Bubble Sort,reverse,5000,8,3.166091
+Bubble Sort,reverse,5000,9,1.829244
+Bubble Sort,reverse,5000,10,1.794291
+Bubble Sort,reverse,5000,11,1.756707
+Bubble Sort,reverse,5000,12,1.797828
+Bubble Sort,reverse,5000,13,1.780063
+Bubble Sort,reverse,5000,14,2.38763
+Bubble Sort,reverse,10000,0,8.055944
+Bubble Sort,reverse,10000,1,8.657624
+Bubble Sort,reverse,10000,2,7.231996
+Bubble Sort,reverse,10000,3,8.603258
+Bubble Sort,reverse,10000,4,8.668428
+Bubble Sort,reverse,10000,5,7.335524
+Bubble Sort,reverse,10000,6,8.592123
+Bubble Sort,reverse,10000,7,8.488843
+Bubble Sort,reverse,10000,8,7.46157
+Bubble Sort,reverse,10000,9,8.660098
+Bubble Sort,reverse,10000,10,7.389421
+Bubble Sort,reverse,10000,11,8.522263
+Bubble Sort,reverse,10000,12,8.684534
+Bubble Sort,reverse,10000,13,7.283009
+Bubble Sort,reverse,10000,14,8.654409
+Bubble Sort,nearly_sorted,100,0,1.2e-05
+Bubble Sort,nearly_sorted,100,1,1e-05
+Bubble Sort,nearly_sorted,100,2,9e-06
+Bubble Sort,nearly_sorted,100,3,1.3e-05
+Bubble Sort,nearly_sorted,100,4,1.3e-05
+Bubble Sort,nearly_sorted,100,5,9e-06
+Bubble Sort,nearly_sorted,100,6,1e-05
+Bubble Sort,nearly_sorted,100,7,9e-06
+Bubble Sort,nearly_sorted,100,8,1.3e-05
+Bubble Sort,nearly_sorted,100,9,9e-06
+Bubble Sort,nearly_sorted,100,10,9e-06
+Bubble Sort,nearly_sorted,100,11,1.3e-05
+Bubble Sort,nearly_sorted,100,12,9e-06
+Bubble Sort,nearly_sorted,100,13,9e-06
+Bubble Sort,nearly_sorted,100,14,4.9e-05
+Bubble Sort,nearly_sorted,500,0,5.9e-05
+Bubble Sort,nearly_sorted,500,1,6.2e-05
+Bubble Sort,nearly_sorted,500,2,5.6e-05
+Bubble Sort,nearly_sorted,500,3,5.6e-05
+Bubble Sort,nearly_sorted,500,4,6.4e-05
+Bubble Sort,nearly_sorted,500,5,5.6e-05
+Bubble Sort,nearly_sorted,500,6,8.1e-05
+Bubble Sort,nearly_sorted,500,7,8.2e-05
+Bubble Sort,nearly_sorted,500,8,5.5e-05
+Bubble Sort,nearly_sorted,500,9,6.6e-05
+Bubble Sort,nearly_sorted,500,10,5.6e-05
+Bubble Sort,nearly_sorted,500,11,8.1e-05
+Bubble Sort,nearly_sorted,500,12,8.2e-05
+Bubble Sort,nearly_sorted,500,13,5.6e-05
+Bubble Sort,nearly_sorted,500,14,5.8e-05
+Bubble Sort,nearly_sorted,1000,0,0.000126
+Bubble Sort,nearly_sorted,1000,1,0.00018
+Bubble Sort,nearly_sorted,1000,2,0.000187
+Bubble Sort,nearly_sorted,1000,3,0.000176
+Bubble Sort,nearly_sorted,1000,4,0.000186
+Bubble Sort,nearly_sorted,1000,5,0.000119
+Bubble Sort,nearly_sorted,1000,6,0.000195
+Bubble Sort,nearly_sorted,1000,7,0.000124
+Bubble Sort,nearly_sorted,1000,8,0.000182
+Bubble Sort,nearly_sorted,1000,9,0.000121
+Bubble Sort,nearly_sorted,1000,10,0.000124
+Bubble Sort,nearly_sorted,1000,11,0.000221
+Bubble Sort,nearly_sorted,1000,12,0.000129
+Bubble Sort,nearly_sorted,1000,13,0.000182
+Bubble Sort,nearly_sorted,1000,14,0.000126
+Bubble Sort,nearly_sorted,5000,0,0.001032
+Bubble Sort,nearly_sorted,5000,1,0.000674
+Bubble Sort,nearly_sorted,5000,2,0.001001
+Bubble Sort,nearly_sorted,5000,3,0.000691
+Bubble Sort,nearly_sorted,5000,4,0.000677
+Bubble Sort,nearly_sorted,5000,5,0.000724
+Bubble Sort,nearly_sorted,5000,6,0.000684
+Bubble Sort,nearly_sorted,5000,7,0.001009
+Bubble Sort,nearly_sorted,5000,8,0.000684
+Bubble Sort,nearly_sorted,5000,9,0.001032
+Bubble Sort,nearly_sorted,5000,10,0.000822
+Bubble Sort,nearly_sorted,5000,11,0.000928
+Bubble Sort,nearly_sorted,5000,12,0.001787
+Bubble Sort,nearly_sorted,5000,13,0.001156
+Bubble Sort,nearly_sorted,5000,14,0.001082
+Bubble Sort,nearly_sorted,10000,0,0.002078
+Bubble Sort,nearly_sorted,10000,1,0.001461
+Bubble Sort,nearly_sorted,10000,2,0.002059
+Bubble Sort,nearly_sorted,10000,3,0.00145
+Bubble Sort,nearly_sorted,10000,4,0.001384
+Bubble Sort,nearly_sorted,10000,5,0.002135
+Bubble Sort,nearly_sorted,10000,6,0.002041
+Bubble Sort,nearly_sorted,10000,7,0.00204
+Bubble Sort,nearly_sorted,10000,8,0.001382
+Bubble Sort,nearly_sorted,10000,9,0.001686
+Bubble Sort,nearly_sorted,10000,10,0.001454
+Bubble Sort,nearly_sorted,10000,11,0.002138
+Bubble Sort,nearly_sorted,10000,12,0.001456
+Bubble Sort,nearly_sorted,10000,13,0.002064
+Bubble Sort,nearly_sorted,10000,14,0.002099
+Bubble Sort,constant,100,0,7e-06
+Bubble Sort,constant,100,1,5e-06
+Bubble Sort,constant,100,2,5e-06
+Bubble Sort,constant,100,3,5e-06
+Bubble Sort,constant,100,4,5e-06
+Bubble Sort,constant,100,5,5e-06
+Bubble Sort,constant,100,6,5e-06
+Bubble Sort,constant,100,7,5e-06
+Bubble Sort,constant,100,8,5e-06
+Bubble Sort,constant,100,9,5e-06
+Bubble Sort,constant,100,10,5e-06
+Bubble Sort,constant,100,11,5e-06
+Bubble Sort,constant,100,12,5e-06
+Bubble Sort,constant,100,13,5e-06
+Bubble Sort,constant,100,14,5e-06
+Bubble Sort,constant,500,0,3.7e-05
+Bubble Sort,constant,500,1,2.8e-05
+Bubble Sort,constant,500,2,2.8e-05
+Bubble Sort,constant,500,3,2.8e-05
+Bubble Sort,constant,500,4,2.8e-05
+Bubble Sort,constant,500,5,2.8e-05
+Bubble Sort,constant,500,6,2.8e-05
+Bubble Sort,constant,500,7,2.7e-05
+Bubble Sort,constant,500,8,2.7e-05
+Bubble Sort,constant,500,9,2.8e-05
+Bubble Sort,constant,500,10,2.8e-05
+Bubble Sort,constant,500,11,2.8e-05
+Bubble Sort,constant,500,12,2.7e-05
+Bubble Sort,constant,500,13,2.7e-05
+Bubble Sort,constant,500,14,2.8e-05
+Bubble Sort,constant,1000,0,6.7e-05
+Bubble Sort,constant,1000,1,5.8e-05
+Bubble Sort,constant,1000,2,5.9e-05
+Bubble Sort,constant,1000,3,5.9e-05
+Bubble Sort,constant,1000,4,6.6e-05
+Bubble Sort,constant,1000,5,5.9e-05
+Bubble Sort,constant,1000,6,6.2e-05
+Bubble Sort,constant,1000,7,5.8e-05
+Bubble Sort,constant,1000,8,5.9e-05
+Bubble Sort,constant,1000,9,5.9e-05
+Bubble Sort,constant,1000,10,5.9e-05
+Bubble Sort,constant,1000,11,5.9e-05
+Bubble Sort,constant,1000,12,5.8e-05
+Bubble Sort,constant,1000,13,9.4e-05
+Bubble Sort,constant,1000,14,5.9e-05
+Bubble Sort,constant,5000,0,0.000337
+Bubble Sort,constant,5000,1,0.000341
+Bubble Sort,constant,5000,2,0.00038
+Bubble Sort,constant,5000,3,0.00034
+Bubble Sort,constant,5000,4,0.000346
+Bubble Sort,constant,5000,5,0.000336
+Bubble Sort,constant,5000,6,0.00034
+Bubble Sort,constant,5000,7,0.000336
+Bubble Sort,constant,5000,8,0.000334
+Bubble Sort,constant,5000,9,0.000334
+Bubble Sort,constant,5000,10,0.000343
+Bubble Sort,constant,5000,11,0.000332
+Bubble Sort,constant,5000,12,0.000361
+Bubble Sort,constant,5000,13,0.000344
+Bubble Sort,constant,5000,14,0.00033
+Bubble Sort,constant,10000,0,0.000752
+Bubble Sort,constant,10000,1,0.000748
+Bubble Sort,constant,10000,2,0.000699
+Bubble Sort,constant,10000,3,0.000683
+Bubble Sort,constant,10000,4,0.000721
+Bubble Sort,constant,10000,5,0.000708
+Bubble Sort,constant,10000,6,0.000748
+Bubble Sort,constant,10000,7,0.000716
+Bubble Sort,constant,10000,8,0.000695
+Bubble Sort,constant,10000,9,0.000699
+Bubble Sort,constant,10000,10,0.000701
+Bubble Sort,constant,10000,11,0.000767
+Bubble Sort,constant,10000,12,0.000694
+Bubble Sort,constant,10000,13,0.000704
+Bubble Sort,constant,10000,14,0.000703
+Merge Sort,random,100,0,0.000148
+Merge Sort,random,100,1,0.000134
+Merge Sort,random,100,2,0.000132
+Merge Sort,random,100,3,0.000137
+Merge Sort,random,100,4,0.000131
+Merge Sort,random,100,5,0.00015
+Merge Sort,random,100,6,0.000129
+Merge Sort,random,100,7,0.000129
+Merge Sort,random,100,8,0.00013
+Merge Sort,random,100,9,0.00013
+Merge Sort,random,100,10,0.000138
+Merge Sort,random,100,11,0.000129
+Merge Sort,random,100,12,0.000139
+Merge Sort,random,100,13,0.000137
+Merge Sort,random,100,14,0.000129
+Merge Sort,random,500,0,0.000941
+Merge Sort,random,500,1,0.000864
+Merge Sort,random,500,2,0.001214
+Merge Sort,random,500,3,0.001496
+Merge Sort,random,500,4,0.001257
+Merge Sort,random,500,5,0.000916
+Merge Sort,random,500,6,0.000903
+Merge Sort,random,500,7,0.000929
+Merge Sort,random,500,8,0.000901
+Merge Sort,random,500,9,0.000904
+Merge Sort,random,500,10,0.000892
+Merge Sort,random,500,11,0.000887
+Merge Sort,random,500,12,0.000872
+Merge Sort,random,500,13,0.000857
+Merge Sort,random,500,14,0.000877
+Merge Sort,random,1000,0,0.001946
+Merge Sort,random,1000,1,0.00193
+Merge Sort,random,1000,2,0.001905
+Merge Sort,random,1000,3,0.002237
+Merge Sort,random,1000,4,0.002353
+Merge Sort,random,1000,5,0.002387
+Merge Sort,random,1000,6,0.002471
+Merge Sort,random,1000,7,0.002328
+Merge Sort,random,1000,8,0.002327
+Merge Sort,random,1000,9,0.002335
+Merge Sort,random,1000,10,0.002242
+Merge Sort,random,1000,11,0.001996
+Merge Sort,random,1000,12,0.001944
+Merge Sort,random,1000,13,0.001923
+Merge Sort,random,1000,14,0.001979
+Merge Sort,random,5000,0,0.012255
+Merge Sort,random,5000,1,0.012457
+Merge Sort,random,5000,2,0.012136
+Merge Sort,random,5000,3,0.012319
+Merge Sort,random,5000,4,0.012286
+Merge Sort,random,5000,5,0.01235
+Merge Sort,random,5000,6,0.017414
+Merge Sort,random,5000,7,0.012271
+Merge Sort,random,5000,8,0.012051
+Merge Sort,random,5000,9,0.012635
+Merge Sort,random,5000,10,0.012217
+Merge Sort,random,5000,11,0.012204
+Merge Sort,random,5000,12,0.012192
+Merge Sort,random,5000,13,0.012574
+Merge Sort,random,5000,14,0.012103
+Merge Sort,random,10000,0,0.044302
+Merge Sort,random,10000,1,0.026689
+Merge Sort,random,10000,2,0.027361
+Merge Sort,random,10000,3,0.026907
+Merge Sort,random,10000,4,0.027097
+Merge Sort,random,10000,5,0.026372
+Merge Sort,random,10000,6,0.026727
+Merge Sort,random,10000,7,0.030986
+Merge Sort,random,10000,8,0.027144
+Merge Sort,random,10000,9,0.026695
+Merge Sort,random,10000,10,0.02734
+Merge Sort,random,10000,11,0.026851
+Merge Sort,random,10000,12,0.026739
+Merge Sort,random,10000,13,0.02694
+Merge Sort,random,10000,14,0.027293
+Merge Sort,random,50000,0,0.159499
+Merge Sort,random,50000,1,0.161241
+Merge Sort,random,50000,2,0.182626
+Merge Sort,random,50000,3,0.159689
+Merge Sort,random,50000,4,0.156701
+Merge Sort,random,50000,5,0.1603
+Merge Sort,random,50000,6,0.160092
+Merge Sort,random,50000,7,0.161312
+Merge Sort,random,50000,8,0.159314
+Merge Sort,random,50000,9,0.159241
+Merge Sort,random,50000,10,0.159642
+Merge Sort,random,50000,11,0.166443
+Merge Sort,random,50000,12,0.157435
+Merge Sort,random,50000,13,0.175733
+Merge Sort,random,50000,14,0.156021
+Merge Sort,random,100000,0,0.371702
+Merge Sort,random,100000,1,0.363867
+Merge Sort,random,100000,2,0.345694
+Merge Sort,random,100000,3,0.615446
+Merge Sort,random,100000,4,0.661083
+Merge Sort,random,100000,5,0.681414
+Merge Sort,random,100000,6,0.617406
+Merge Sort,random,100000,7,0.367323
+Merge Sort,random,100000,8,0.361476
+Merge Sort,random,100000,9,0.35934
+Merge Sort,random,100000,10,0.35457
+Merge Sort,random,100000,11,0.374926
+Merge Sort,random,100000,12,0.353784
+Merge Sort,random,100000,13,0.362208
+Merge Sort,random,100000,14,0.356749
+Merge Sort,sorted,100,0,0.000117
+Merge Sort,sorted,100,1,0.000108
+Merge Sort,sorted,100,2,0.000111
+Merge Sort,sorted,100,3,0.000109
+Merge Sort,sorted,100,4,0.000107
+Merge Sort,sorted,100,5,0.000107
+Merge Sort,sorted,100,6,0.000121
+Merge Sort,sorted,100,7,0.000107
+Merge Sort,sorted,100,8,0.000111
+Merge Sort,sorted,100,9,0.000111
+Merge Sort,sorted,100,10,0.000107
+Merge Sort,sorted,100,11,0.000107
+Merge Sort,sorted,100,12,0.000107
+Merge Sort,sorted,100,13,0.000107
+Merge Sort,sorted,100,14,0.000107
+Merge Sort,sorted,500,0,0.000731
+Merge Sort,sorted,500,1,0.000725
+Merge Sort,sorted,500,2,0.000719
+Merge Sort,sorted,500,3,0.000712
+Merge Sort,sorted,500,4,0.000733
+Merge Sort,sorted,500,5,0.000762
+Merge Sort,sorted,500,6,0.000724
+Merge Sort,sorted,500,7,0.000727
+Merge Sort,sorted,500,8,0.00071
+Merge Sort,sorted,500,9,0.000719
+Merge Sort,sorted,500,10,0.000765
+Merge Sort,sorted,500,11,0.000734
+Merge Sort,sorted,500,12,0.00071
+Merge Sort,sorted,500,13,0.000713
+Merge Sort,sorted,500,14,0.00071
+Merge Sort,sorted,1000,0,0.001666
+Merge Sort,sorted,1000,1,0.001634
+Merge Sort,sorted,1000,2,0.00164
+Merge Sort,sorted,1000,3,0.001636
+Merge Sort,sorted,1000,4,0.001628
+Merge Sort,sorted,1000,5,0.001627
+Merge Sort,sorted,1000,6,0.00162
+Merge Sort,sorted,1000,7,0.001655
+Merge Sort,sorted,1000,8,0.001678
+Merge Sort,sorted,1000,9,0.001642
+Merge Sort,sorted,1000,10,0.001676
+Merge Sort,sorted,1000,11,0.001632
+Merge Sort,sorted,1000,12,0.001627
+Merge Sort,sorted,1000,13,0.001624
+Merge Sort,sorted,1000,14,0.001732
+Merge Sort,sorted,5000,0,0.011573
+Merge Sort,sorted,5000,1,0.010301
+Merge Sort,sorted,5000,2,0.010518
+Merge Sort,sorted,5000,3,0.010514
+Merge Sort,sorted,5000,4,0.010725
+Merge Sort,sorted,5000,5,0.010448
+Merge Sort,sorted,5000,6,0.010249
+Merge Sort,sorted,5000,7,0.0103
+Merge Sort,sorted,5000,8,0.010348
+Merge Sort,sorted,5000,9,0.010286
+Merge Sort,sorted,5000,10,0.010337
+Merge Sort,sorted,5000,11,0.010331
+Merge Sort,sorted,5000,12,0.01031
+Merge Sort,sorted,5000,13,0.010611
+Merge Sort,sorted,5000,14,0.010451
+Merge Sort,sorted,10000,0,0.022757
+Merge Sort,sorted,10000,1,0.023076
+Merge Sort,sorted,10000,2,0.023067
+Merge Sort,sorted,10000,3,0.024701
+Merge Sort,sorted,10000,4,0.022895
+Merge Sort,sorted,10000,5,0.02252
+Merge Sort,sorted,10000,6,0.02238
+Merge Sort,sorted,10000,7,0.022311
+Merge Sort,sorted,10000,8,0.022372
+Merge Sort,sorted,10000,9,0.0224
+Merge Sort,sorted,10000,10,0.022043
+Merge Sort,sorted,10000,11,0.022209
+Merge Sort,sorted,10000,12,0.022406
+Merge Sort,sorted,10000,13,0.038089
+Merge Sort,sorted,10000,14,0.022658
+Merge Sort,sorted,50000,0,0.131565
+Merge Sort,sorted,50000,1,0.142158
+Merge Sort,sorted,50000,2,0.13221
+Merge Sort,sorted,50000,3,0.132558
+Merge Sort,sorted,50000,4,0.129247
+Merge Sort,sorted,50000,5,0.133894
+Merge Sort,sorted,50000,6,0.129974
+Merge Sort,sorted,50000,7,0.145232
+Merge Sort,sorted,50000,8,0.132708
+Merge Sort,sorted,50000,9,0.129811
+Merge Sort,sorted,50000,10,0.131295
+Merge Sort,sorted,50000,11,0.131154
+Merge Sort,sorted,50000,12,0.129774
+Merge Sort,sorted,50000,13,0.129117
+Merge Sort,sorted,50000,14,0.132987
+Merge Sort,sorted,100000,0,0.294835
+Merge Sort,sorted,100000,1,0.278974
+Merge Sort,sorted,100000,2,0.28091
+Merge Sort,sorted,100000,3,0.29381
+Merge Sort,sorted,100000,4,0.279182
+Merge Sort,sorted,100000,5,0.277534
+Merge Sort,sorted,100000,6,0.274533
+Merge Sort,sorted,100000,7,0.298821
+Merge Sort,sorted,100000,8,0.278068
+Merge Sort,sorted,100000,9,0.274666
+Merge Sort,sorted,100000,10,0.298332
+Merge Sort,sorted,100000,11,0.278253
+Merge Sort,sorted,100000,12,0.275705
+Merge Sort,sorted,100000,13,0.276677
+Merge Sort,sorted,100000,14,0.529763
+Merge Sort,reverse,100,0,0.000237
+Merge Sort,reverse,100,1,0.000236
+Merge Sort,reverse,100,2,0.000229
+Merge Sort,reverse,100,3,0.000242
+Merge Sort,reverse,100,4,0.000228
+Merge Sort,reverse,100,5,0.000234
+Merge Sort,reverse,100,6,0.00023
+Merge Sort,reverse,100,7,0.000243
+Merge Sort,reverse,100,8,0.000227
+Merge Sort,reverse,100,9,0.000236
+Merge Sort,reverse,100,10,0.000229
+Merge Sort,reverse,100,11,0.000247
+Merge Sort,reverse,100,12,0.000227
+Merge Sort,reverse,100,13,0.000254
+Merge Sort,reverse,100,14,0.000229
+Merge Sort,reverse,500,0,0.001555
+Merge Sort,reverse,500,1,0.001545
+Merge Sort,reverse,500,2,0.00153
+Merge Sort,reverse,500,3,0.001539
+Merge Sort,reverse,500,4,0.001532
+Merge Sort,reverse,500,5,0.001528
+Merge Sort,reverse,500,6,0.001527
+Merge Sort,reverse,500,7,0.00153
+Merge Sort,reverse,500,8,0.001554
+Merge Sort,reverse,500,9,0.001525
+Merge Sort,reverse,500,10,0.001531
+Merge Sort,reverse,500,11,0.001475
+Merge Sort,reverse,500,12,0.001493
+Merge Sort,reverse,500,13,0.00152
+Merge Sort,reverse,500,14,0.001528
+Merge Sort,reverse,1000,0,0.003517
+Merge Sort,reverse,1000,1,0.003265
+Merge Sort,reverse,1000,2,0.00281
+Merge Sort,reverse,1000,3,0.002909
+Merge Sort,reverse,1000,4,0.002909
+Merge Sort,reverse,1000,5,0.003013
+Merge Sort,reverse,1000,6,0.003035
+Merge Sort,reverse,1000,7,0.003013
+Merge Sort,reverse,1000,8,0.003072
+Merge Sort,reverse,1000,9,0.003236
+Merge Sort,reverse,1000,10,0.003259
+Merge Sort,reverse,1000,11,0.003177
+Merge Sort,reverse,1000,12,0.003181
+Merge Sort,reverse,1000,13,0.003213
+Merge Sort,reverse,1000,14,0.003187
+Merge Sort,reverse,5000,0,0.020784
+Merge Sort,reverse,5000,1,0.019803
+Merge Sort,reverse,5000,2,0.020078
+Merge Sort,reverse,5000,3,0.019731
+Merge Sort,reverse,5000,4,0.019865
+Merge Sort,reverse,5000,5,0.01999
+Merge Sort,reverse,5000,6,0.019883
+Merge Sort,reverse,5000,7,0.019761
+Merge Sort,reverse,5000,8,0.019885
+Merge Sort,reverse,5000,9,0.019787
+Merge Sort,reverse,5000,10,0.021357
+Merge Sort,reverse,5000,11,0.023577
+Merge Sort,reverse,5000,12,0.019879
+Merge Sort,reverse,5000,13,0.019925
+Merge Sort,reverse,5000,14,0.019934
+Merge Sort,reverse,10000,0,0.043487
+Merge Sort,reverse,10000,1,0.043368
+Merge Sort,reverse,10000,2,0.043242
+Merge Sort,reverse,10000,3,0.042738
+Merge Sort,reverse,10000,4,0.04669
+Merge Sort,reverse,10000,5,0.045414
+Merge Sort,reverse,10000,6,0.054506
+Merge Sort,reverse,10000,7,0.044703
+Merge Sort,reverse,10000,8,0.046705
+Merge Sort,reverse,10000,9,0.047531
+Merge Sort,reverse,10000,10,0.047817
+Merge Sort,reverse,10000,11,0.05009
+Merge Sort,reverse,10000,12,0.048196
+Merge Sort,reverse,10000,13,0.046744
+Merge Sort,reverse,10000,14,0.04682
+Merge Sort,reverse,50000,0,0.273668
+Merge Sort,reverse,50000,1,0.236729
+Merge Sort,reverse,50000,2,0.250581
+Merge Sort,reverse,50000,3,0.237503
+Merge Sort,reverse,50000,4,0.240498
+Merge Sort,reverse,50000,5,0.130655
+Merge Sort,reverse,50000,6,0.13374
+Merge Sort,reverse,50000,7,0.131579
+Merge Sort,reverse,50000,8,0.147088
+Merge Sort,reverse,50000,9,0.130347
+Merge Sort,reverse,50000,10,0.13022
+Merge Sort,reverse,50000,11,0.13038
+Merge Sort,reverse,50000,12,0.129873
+Merge Sort,reverse,50000,13,0.130731
+Merge Sort,reverse,50000,14,0.133517
+Merge Sort,reverse,100000,0,0.298483
+Merge Sort,reverse,100000,1,0.273237
+Merge Sort,reverse,100000,2,0.281384
+Merge Sort,reverse,100000,3,0.276981
+Merge Sort,reverse,100000,4,0.290864
+Merge Sort,reverse,100000,5,0.275652
+Merge Sort,reverse,100000,6,0.280148
+Merge Sort,reverse,100000,7,0.294823
+Merge Sort,reverse,100000,8,0.273579
+Merge Sort,reverse,100000,9,0.276997
+Merge Sort,reverse,100000,10,0.282358
+Merge Sort,reverse,100000,11,0.293813
+Merge Sort,reverse,100000,12,0.273904
+Merge Sort,reverse,100000,13,0.280656
+Merge Sort,reverse,100000,14,0.277212
+Merge Sort,nearly_sorted,100,0,0.000191
+Merge Sort,nearly_sorted,100,1,0.000109
+Merge Sort,nearly_sorted,100,2,0.000111
+Merge Sort,nearly_sorted,100,3,0.000108
+Merge Sort,nearly_sorted,100,4,0.000108
+Merge Sort,nearly_sorted,100,5,0.000108
+Merge Sort,nearly_sorted,100,6,0.000119
+Merge Sort,nearly_sorted,100,7,0.000107
+Merge Sort,nearly_sorted,100,8,0.000114
+Merge Sort,nearly_sorted,100,9,0.000108
+Merge Sort,nearly_sorted,100,10,0.00011
+Merge Sort,nearly_sorted,100,11,0.000107
+Merge Sort,nearly_sorted,100,12,0.000108
+Merge Sort,nearly_sorted,100,13,0.000107
+Merge Sort,nearly_sorted,100,14,0.00015
+Merge Sort,nearly_sorted,500,0,0.001118
+Merge Sort,nearly_sorted,500,1,0.001254
+Merge Sort,nearly_sorted,500,2,0.001277
+Merge Sort,nearly_sorted,500,3,0.001288
+Merge Sort,nearly_sorted,500,4,0.001346
+Merge Sort,nearly_sorted,500,5,0.001321
+Merge Sort,nearly_sorted,500,6,0.001339
+Merge Sort,nearly_sorted,500,7,0.001382
+Merge Sort,nearly_sorted,500,8,0.001373
+Merge Sort,nearly_sorted,500,9,0.001436
+Merge Sort,nearly_sorted,500,10,0.001688
+Merge Sort,nearly_sorted,500,11,0.001317
+Merge Sort,nearly_sorted,500,12,0.001424
+Merge Sort,nearly_sorted,500,13,0.001394
+Merge Sort,nearly_sorted,500,14,0.001418
+Merge Sort,nearly_sorted,1000,0,0.002941
+Merge Sort,nearly_sorted,1000,1,0.003029
+Merge Sort,nearly_sorted,1000,2,0.003001
+Merge Sort,nearly_sorted,1000,3,0.002955
+Merge Sort,nearly_sorted,1000,4,0.002481
+Merge Sort,nearly_sorted,1000,5,0.001775
+Merge Sort,nearly_sorted,1000,6,0.001715
+Merge Sort,nearly_sorted,1000,7,0.001679
+Merge Sort,nearly_sorted,1000,8,0.001647
+Merge Sort,nearly_sorted,1000,9,0.001656
+Merge Sort,nearly_sorted,1000,10,0.001634
+Merge Sort,nearly_sorted,1000,11,0.001668
+Merge Sort,nearly_sorted,1000,12,0.001652
+Merge Sort,nearly_sorted,1000,13,0.001672
+Merge Sort,nearly_sorted,1000,14,0.001656
+Merge Sort,nearly_sorted,5000,0,0.010346
+Merge Sort,nearly_sorted,5000,1,0.010822
+Merge Sort,nearly_sorted,5000,2,0.010424
+Merge Sort,nearly_sorted,5000,3,0.010944
+Merge Sort,nearly_sorted,5000,4,0.01042
+Merge Sort,nearly_sorted,5000,5,0.01039
+Merge Sort,nearly_sorted,5000,6,0.010326
+Merge Sort,nearly_sorted,5000,7,0.010282
+Merge Sort,nearly_sorted,5000,8,0.010315
+Merge Sort,nearly_sorted,5000,9,0.010228
+Merge Sort,nearly_sorted,5000,10,0.010494
+Merge Sort,nearly_sorted,5000,11,0.010333
+Merge Sort,nearly_sorted,5000,12,0.010345
+Merge Sort,nearly_sorted,5000,13,0.01102
+Merge Sort,nearly_sorted,5000,14,0.010335
+Merge Sort,nearly_sorted,10000,0,0.022432
+Merge Sort,nearly_sorted,10000,1,0.022208
+Merge Sort,nearly_sorted,10000,2,0.024351
+Merge Sort,nearly_sorted,10000,3,0.022135
+Merge Sort,nearly_sorted,10000,4,0.022121
+Merge Sort,nearly_sorted,10000,5,0.022223
+Merge Sort,nearly_sorted,10000,6,0.022642
+Merge Sort,nearly_sorted,10000,7,0.02224
+Merge Sort,nearly_sorted,10000,8,0.022363
+Merge Sort,nearly_sorted,10000,9,0.022401
+Merge Sort,nearly_sorted,10000,10,0.022284
+Merge Sort,nearly_sorted,10000,11,0.024672
+Merge Sort,nearly_sorted,10000,12,0.022602
+Merge Sort,nearly_sorted,10000,13,0.02256
+Merge Sort,nearly_sorted,10000,14,0.022107
+Merge Sort,nearly_sorted,50000,0,0.13616
+Merge Sort,nearly_sorted,50000,1,0.132896
+Merge Sort,nearly_sorted,50000,2,0.129591
+Merge Sort,nearly_sorted,50000,3,0.146251
+Merge Sort,nearly_sorted,50000,4,0.133345
+Merge Sort,nearly_sorted,50000,5,0.130267
+Merge Sort,nearly_sorted,50000,6,0.129925
+Merge Sort,nearly_sorted,50000,7,0.131129
+Merge Sort,nearly_sorted,50000,8,0.131403
+Merge Sort,nearly_sorted,50000,9,0.129419
+Merge Sort,nearly_sorted,50000,10,0.129857
+Merge Sort,nearly_sorted,50000,11,0.144294
+Merge Sort,nearly_sorted,50000,12,0.1286
+Merge Sort,nearly_sorted,50000,13,0.139486
+Merge Sort,nearly_sorted,50000,14,0.139351
+Merge Sort,nearly_sorted,100000,0,0.285665
+Merge Sort,nearly_sorted,100000,1,0.293722
+Merge Sort,nearly_sorted,100000,2,0.278495
+Merge Sort,nearly_sorted,100000,3,0.27612
+Merge Sort,nearly_sorted,100000,4,0.279404
+Merge Sort,nearly_sorted,100000,5,0.29268
+Merge Sort,nearly_sorted,100000,6,0.473636
+Merge Sort,nearly_sorted,100000,7,0.543334
+Merge Sort,nearly_sorted,100000,8,0.561201
+Merge Sort,nearly_sorted,100000,9,0.558659
+Merge Sort,nearly_sorted,100000,10,0.51874
+Merge Sort,nearly_sorted,100000,11,0.39561
+Merge Sort,nearly_sorted,100000,12,0.280237
+Merge Sort,nearly_sorted,100000,13,0.29184
+Merge Sort,nearly_sorted,100000,14,0.279744
+Merge Sort,constant,100,0,0.000117
+Merge Sort,constant,100,1,0.000114
+Merge Sort,constant,100,2,0.000108
+Merge Sort,constant,100,3,0.000107
+Merge Sort,constant,100,4,0.000108
+Merge Sort,constant,100,5,0.000107
+Merge Sort,constant,100,6,0.000118
+Merge Sort,constant,100,7,0.000107
+Merge Sort,constant,100,8,0.000107
+Merge Sort,constant,100,9,0.000112
+Merge Sort,constant,100,10,0.000107
+Merge Sort,constant,100,11,0.000107
+Merge Sort,constant,100,12,0.000107
+Merge Sort,constant,100,13,0.000107
+Merge Sort,constant,100,14,0.000107
+Merge Sort,constant,500,0,0.000711
+Merge Sort,constant,500,1,0.000712
+Merge Sort,constant,500,2,0.000743
+Merge Sort,constant,500,3,0.000705
+Merge Sort,constant,500,4,0.000715
+Merge Sort,constant,500,5,0.000705
+Merge Sort,constant,500,6,0.000705
+Merge Sort,constant,500,7,0.0007
+Merge Sort,constant,500,8,0.00076
+Merge Sort,constant,500,9,0.000709
+Merge Sort,constant,500,10,0.000724
+Merge Sort,constant,500,11,0.00071
+Merge Sort,constant,500,12,0.000707
+Merge Sort,constant,500,13,0.000702
+Merge Sort,constant,500,14,0.000707
+Merge Sort,constant,1000,0,0.001605
+Merge Sort,constant,1000,1,0.001603
+Merge Sort,constant,1000,2,0.001613
+Merge Sort,constant,1000,3,0.001633
+Merge Sort,constant,1000,4,0.001594
+Merge Sort,constant,1000,5,0.001617
+Merge Sort,constant,1000,6,0.001644
+Merge Sort,constant,1000,7,0.001601
+Merge Sort,constant,1000,8,0.001606
+Merge Sort,constant,1000,9,0.001601
+Merge Sort,constant,1000,10,0.001595
+Merge Sort,constant,1000,11,0.001614
+Merge Sort,constant,1000,12,0.001609
+Merge Sort,constant,1000,13,0.001603
+Merge Sort,constant,1000,14,0.001662
+Merge Sort,constant,5000,0,0.010951
+Merge Sort,constant,5000,1,0.01016
+Merge Sort,constant,5000,2,0.010176
+Merge Sort,constant,5000,3,0.010245
+Merge Sort,constant,5000,4,0.010202
+Merge Sort,constant,5000,5,0.010056
+Merge Sort,constant,5000,6,0.010948
+Merge Sort,constant,5000,7,0.013925
+Merge Sort,constant,5000,8,0.01853
+Merge Sort,constant,5000,9,0.013521
+Merge Sort,constant,5000,10,0.010174
+Merge Sort,constant,5000,11,0.010086
+Merge Sort,constant,5000,12,0.010163
+Merge Sort,constant,5000,13,0.010347
+Merge Sort,constant,5000,14,0.010263
+Merge Sort,constant,10000,0,0.021941
+Merge Sort,constant,10000,1,0.02401
+Merge Sort,constant,10000,2,0.021951
+Merge Sort,constant,10000,3,0.022194
+Merge Sort,constant,10000,4,0.021859
+Merge Sort,constant,10000,5,0.022159
+Merge Sort,constant,10000,6,0.023121
+Merge Sort,constant,10000,7,0.021799
+Merge Sort,constant,10000,8,0.021894
+Merge Sort,constant,10000,9,0.02178
+Merge Sort,constant,10000,10,0.024188
+Merge Sort,constant,10000,11,0.021877
+Merge Sort,constant,10000,12,0.021928
+Merge Sort,constant,10000,13,0.021774
+Merge Sort,constant,10000,14,0.021673
+Merge Sort,constant,50000,0,0.133347
+Merge Sort,constant,50000,1,0.130321
+Merge Sort,constant,50000,2,0.125788
+Merge Sort,constant,50000,3,0.126041
+Merge Sort,constant,50000,4,0.14254
+Merge Sort,constant,50000,5,0.127043
+Merge Sort,constant,50000,6,0.126917
+Merge Sort,constant,50000,7,0.130317
+Merge Sort,constant,50000,8,0.127219
+Merge Sort,constant,50000,9,0.128809
+Merge Sort,constant,50000,10,0.128891
+Merge Sort,constant,50000,11,0.126068
+Merge Sort,constant,50000,12,0.14282
+Merge Sort,constant,50000,13,0.135848
+Merge Sort,constant,50000,14,0.127519
+Merge Sort,constant,100000,0,0.276925
+Merge Sort,constant,100000,1,0.2685
+Merge Sort,constant,100000,2,0.288847
+Merge Sort,constant,100000,3,0.282464
+Merge Sort,constant,100000,4,0.272317
+Merge Sort,constant,100000,5,0.26961
+Merge Sort,constant,100000,6,0.290298
+Merge Sort,constant,100000,7,0.271234
+Merge Sort,constant,100000,8,0.271443
+Merge Sort,constant,100000,9,0.271515
+Merge Sort,constant,100000,10,0.294507
+Merge Sort,constant,100000,11,0.272041
+Merge Sort,constant,100000,12,0.269321
+Merge Sort,constant,100000,13,0.288204
+Merge Sort,constant,100000,14,0.272495
+Quicksort,random,100,0,7.5e-05
+Quicksort,random,100,1,5.4e-05
+Quicksort,random,100,2,5.5e-05
+Quicksort,random,100,3,5.1e-05
+Quicksort,random,100,4,5.1e-05
+Quicksort,random,100,5,5.6e-05
+Quicksort,random,100,6,5e-05
+Quicksort,random,100,7,5.1e-05
+Quicksort,random,100,8,5.2e-05
+Quicksort,random,100,9,5.1e-05
+Quicksort,random,100,10,5.2e-05
+Quicksort,random,100,11,5.2e-05
+Quicksort,random,100,12,5.3e-05
+Quicksort,random,100,13,5e-05
+Quicksort,random,100,14,5.2e-05
+Quicksort,random,500,0,0.000373
+Quicksort,random,500,1,0.000379
+Quicksort,random,500,2,0.000367
+Quicksort,random,500,3,0.000369
+Quicksort,random,500,4,0.000429
+Quicksort,random,500,5,0.000411
+Quicksort,random,500,6,0.000364
+Quicksort,random,500,7,0.00037
+Quicksort,random,500,8,0.00037
+Quicksort,random,500,9,0.00036
+Quicksort,random,500,10,0.000367
+Quicksort,random,500,11,0.000365
+Quicksort,random,500,12,0.000364
+Quicksort,random,500,13,0.000378
+Quicksort,random,500,14,0.000366
+Quicksort,random,1000,0,0.000844
+Quicksort,random,1000,1,0.000816
+Quicksort,random,1000,2,0.000835
+Quicksort,random,1000,3,0.000841
+Quicksort,random,1000,4,0.000835
+Quicksort,random,1000,5,0.000855
+Quicksort,random,1000,6,0.000834
+Quicksort,random,1000,7,0.000804
+Quicksort,random,1000,8,0.000816
+Quicksort,random,1000,9,0.000811
+Quicksort,random,1000,10,0.000872
+Quicksort,random,1000,11,0.000845
+Quicksort,random,1000,12,0.000836
+Quicksort,random,1000,13,0.000809
+Quicksort,random,1000,14,0.000824
+Quicksort,random,5000,0,0.005033
+Quicksort,random,5000,1,0.005055
+Quicksort,random,5000,2,0.005052
+Quicksort,random,5000,3,0.005316
+Quicksort,random,5000,4,0.005162
+Quicksort,random,5000,5,0.005144
+Quicksort,random,5000,6,0.005518
+Quicksort,random,5000,7,0.005171
+Quicksort,random,5000,8,0.005113
+Quicksort,random,5000,9,0.006087
+Quicksort,random,5000,10,0.005093
+Quicksort,random,5000,11,0.005179
+Quicksort,random,5000,12,0.005192
+Quicksort,random,5000,13,0.005093
+Quicksort,random,5000,14,0.004968
+Quicksort,random,10000,0,0.01113
+Quicksort,random,10000,1,0.010947
+Quicksort,random,10000,2,0.011327
+Quicksort,random,10000,3,0.01104
+Quicksort,random,10000,4,0.011262
+Quicksort,random,10000,5,0.010778
+Quicksort,random,10000,6,0.011334
+Quicksort,random,10000,7,0.012906
+Quicksort,random,10000,8,0.011034
+Quicksort,random,10000,9,0.011345
+Quicksort,random,10000,10,0.010945
+Quicksort,random,10000,11,0.010622
+Quicksort,random,10000,12,0.010991
+Quicksort,random,10000,13,0.01104
+Quicksort,random,10000,14,0.010974
+Quicksort,random,50000,0,0.065856
+Quicksort,random,50000,1,0.066056
+Quicksort,random,50000,2,0.084314
+Quicksort,random,50000,3,0.066987
+Quicksort,random,50000,4,0.069453
+Quicksort,random,50000,5,0.072385
+Quicksort,random,50000,6,0.066317
+Quicksort,random,50000,7,0.066942
+Quicksort,random,50000,8,0.066779
+Quicksort,random,50000,9,0.067313
+Quicksort,random,50000,10,0.066178
+Quicksort,random,50000,11,0.067813
+Quicksort,random,50000,12,0.06711
+Quicksort,random,50000,13,0.080819
+Quicksort,random,50000,14,0.065976
+Quicksort,random,100000,0,0.151263
+Quicksort,random,100000,1,0.186286
+Quicksort,random,100000,2,0.33668
+Quicksort,random,100000,3,0.254076
+Quicksort,random,100000,4,0.266827
+Quicksort,random,100000,5,0.289661
+Quicksort,random,100000,6,0.276694
+Quicksort,random,100000,7,0.271705
+Quicksort,random,100000,8,0.280402
+Quicksort,random,100000,9,0.144788
+Quicksort,random,100000,10,0.155946
+Quicksort,random,100000,11,0.152436
+Quicksort,random,100000,12,0.17243
+Quicksort,random,100000,13,0.148857
+Quicksort,random,100000,14,0.149472
+Quicksort,sorted,100,0,4.3e-05
+Quicksort,sorted,100,1,3.2e-05
+Quicksort,sorted,100,2,3.1e-05
+Quicksort,sorted,100,3,3.1e-05
+Quicksort,sorted,100,4,3.1e-05
+Quicksort,sorted,100,5,3.1e-05
+Quicksort,sorted,100,6,3.3e-05
+Quicksort,sorted,100,7,3.1e-05
+Quicksort,sorted,100,8,3.1e-05
+Quicksort,sorted,100,9,3.1e-05
+Quicksort,sorted,100,10,3.1e-05
+Quicksort,sorted,100,11,3.1e-05
+Quicksort,sorted,100,12,3.1e-05
+Quicksort,sorted,100,13,3.1e-05
+Quicksort,sorted,100,14,3.1e-05
+Quicksort,sorted,500,0,0.000317
+Quicksort,sorted,500,1,0.000272
+Quicksort,sorted,500,2,0.00028
+Quicksort,sorted,500,3,0.000271
+Quicksort,sorted,500,4,0.00028
+Quicksort,sorted,500,5,0.000319
+Quicksort,sorted,500,6,0.000318
+Quicksort,sorted,500,7,0.00028
+Quicksort,sorted,500,8,0.000273
+Quicksort,sorted,500,9,0.000272
+Quicksort,sorted,500,10,0.000297
+Quicksort,sorted,500,11,0.000281
+Quicksort,sorted,500,12,0.000281
+Quicksort,sorted,500,13,0.00028
+Quicksort,sorted,500,14,0.000275
+Quicksort,sorted,1000,0,0.000644
+Quicksort,sorted,1000,1,0.000635
+Quicksort,sorted,1000,2,0.000687
+Quicksort,sorted,1000,3,0.000648
+Quicksort,sorted,1000,4,0.000637
+Quicksort,sorted,1000,5,0.000788
+Quicksort,sorted,1000,6,0.00072
+Quicksort,sorted,1000,7,0.000635
+Quicksort,sorted,1000,8,0.000713
+Quicksort,sorted,1000,9,0.000642
+Quicksort,sorted,1000,10,0.000648
+Quicksort,sorted,1000,11,0.000624
+Quicksort,sorted,1000,12,0.000665
+Quicksort,sorted,1000,13,0.000605
+Quicksort,sorted,1000,14,0.000649
+Quicksort,sorted,5000,0,0.003594
+Quicksort,sorted,5000,1,0.00426
+Quicksort,sorted,5000,2,0.003584
+Quicksort,sorted,5000,3,0.003704
+Quicksort,sorted,5000,4,0.003536
+Quicksort,sorted,5000,5,0.003651
+Quicksort,sorted,5000,6,0.003563
+Quicksort,sorted,5000,7,0.003625
+Quicksort,sorted,5000,8,0.003548
+Quicksort,sorted,5000,9,0.003655
+Quicksort,sorted,5000,10,0.004038
+Quicksort,sorted,5000,11,0.003711
+Quicksort,sorted,5000,12,0.003597
+Quicksort,sorted,5000,13,0.00371
+Quicksort,sorted,5000,14,0.003556
+Quicksort,sorted,10000,0,0.008028
+Quicksort,sorted,10000,1,0.007736
+Quicksort,sorted,10000,2,0.007859
+Quicksort,sorted,10000,3,0.007679
+Quicksort,sorted,10000,4,0.00792
+Quicksort,sorted,10000,5,0.0076
+Quicksort,sorted,10000,6,0.00788
+Quicksort,sorted,10000,7,0.007585
+Quicksort,sorted,10000,8,0.007814
+Quicksort,sorted,10000,9,0.007581
+Quicksort,sorted,10000,10,0.008268
+Quicksort,sorted,10000,11,0.007664
+Quicksort,sorted,10000,12,0.00779
+Quicksort,sorted,10000,13,0.007963
+Quicksort,sorted,10000,14,0.007785
+Quicksort,sorted,50000,0,0.045258
+Quicksort,sorted,50000,1,0.045917
+Quicksort,sorted,50000,2,0.041009
+Quicksort,sorted,50000,3,0.042738
+Quicksort,sorted,50000,4,0.041204
+Quicksort,sorted,50000,5,0.044732
+Quicksort,sorted,50000,6,0.042884
+Quicksort,sorted,50000,7,0.046727
+Quicksort,sorted,50000,8,0.056481
+Quicksort,sorted,50000,9,0.042333
+Quicksort,sorted,50000,10,0.042609
+Quicksort,sorted,50000,11,0.042611
+Quicksort,sorted,50000,12,0.040972
+Quicksort,sorted,50000,13,0.042411
+Quicksort,sorted,50000,14,0.041204
+Quicksort,sorted,100000,0,0.090198
+Quicksort,sorted,100000,1,0.088143
+Quicksort,sorted,100000,2,0.089604
+Quicksort,sorted,100000,3,0.089386
+Quicksort,sorted,100000,4,0.091607
+Quicksort,sorted,100000,5,0.087664
+Quicksort,sorted,100000,6,0.097421
+Quicksort,sorted,100000,7,0.102308
+Quicksort,sorted,100000,8,0.092135
+Quicksort,sorted,100000,9,0.08771
+Quicksort,sorted,100000,10,0.090311
+Quicksort,sorted,100000,11,0.087146
+Quicksort,sorted,100000,12,0.091393
+Quicksort,sorted,100000,13,0.088902
+Quicksort,sorted,100000,14,0.090648
+Quicksort,reverse,100,0,6.4e-05
+Quicksort,reverse,100,1,4.5e-05
+Quicksort,reverse,100,2,4.4e-05
+Quicksort,reverse,100,3,4.4e-05
+Quicksort,reverse,100,4,4.4e-05
+Quicksort,reverse,100,5,4.4e-05
+Quicksort,reverse,100,6,4.4e-05
+Quicksort,reverse,100,7,4.5e-05
+Quicksort,reverse,100,8,4.4e-05
+Quicksort,reverse,100,9,4.4e-05
+Quicksort,reverse,100,10,4.4e-05
+Quicksort,reverse,100,11,4.4e-05
+Quicksort,reverse,100,12,4.4e-05
+Quicksort,reverse,100,13,4.4e-05
+Quicksort,reverse,100,14,4.4e-05
+Quicksort,reverse,500,0,0.00037
+Quicksort,reverse,500,1,0.000356
+Quicksort,reverse,500,2,0.00036
+Quicksort,reverse,500,3,0.000357
+Quicksort,reverse,500,4,0.000353
+Quicksort,reverse,500,5,0.000395
+Quicksort,reverse,500,6,0.000357
+Quicksort,reverse,500,7,0.000357
+Quicksort,reverse,500,8,0.000369
+Quicksort,reverse,500,9,0.000352
+Quicksort,reverse,500,10,0.00038
+Quicksort,reverse,500,11,0.000361
+Quicksort,reverse,500,12,0.000353
+Quicksort,reverse,500,13,0.000363
+Quicksort,reverse,500,14,0.000357
+Quicksort,reverse,1000,0,0.000906
+Quicksort,reverse,1000,1,0.000886
+Quicksort,reverse,1000,2,0.000855
+Quicksort,reverse,1000,3,0.00081
+Quicksort,reverse,1000,4,0.000814
+Quicksort,reverse,1000,5,0.00082
+Quicksort,reverse,1000,6,0.000913
+Quicksort,reverse,1000,7,0.000834
+Quicksort,reverse,1000,8,0.000859
+Quicksort,reverse,1000,9,0.000838
+Quicksort,reverse,1000,10,0.00086
+Quicksort,reverse,1000,11,0.000824
+Quicksort,reverse,1000,12,0.00085
+Quicksort,reverse,1000,13,0.000844
+Quicksort,reverse,1000,14,0.000862
+Quicksort,reverse,5000,0,0.005138
+Quicksort,reverse,5000,1,0.005216
+Quicksort,reverse,5000,2,0.005074
+Quicksort,reverse,5000,3,0.005236
+Quicksort,reverse,5000,4,0.005142
+Quicksort,reverse,5000,5,0.005326
+Quicksort,reverse,5000,6,0.005141
+Quicksort,reverse,5000,7,0.005173
+Quicksort,reverse,5000,8,0.005604
+Quicksort,reverse,5000,9,0.005283
+Quicksort,reverse,5000,10,0.005079
+Quicksort,reverse,5000,11,0.005202
+Quicksort,reverse,5000,12,0.005155
+Quicksort,reverse,5000,13,0.0052
+Quicksort,reverse,5000,14,0.005209
+Quicksort,reverse,10000,0,0.011736
+Quicksort,reverse,10000,1,0.011457
+Quicksort,reverse,10000,2,0.012004
+Quicksort,reverse,10000,3,0.011154
+Quicksort,reverse,10000,4,0.011645
+Quicksort,reverse,10000,5,0.012217
+Quicksort,reverse,10000,6,0.011372
+Quicksort,reverse,10000,7,0.011287
+Quicksort,reverse,10000,8,0.01339
+Quicksort,reverse,10000,9,0.011147
+Quicksort,reverse,10000,10,0.012059
+Quicksort,reverse,10000,11,0.011143
+Quicksort,reverse,10000,12,0.01138
+Quicksort,reverse,10000,13,0.014003
+Quicksort,reverse,10000,14,0.011429
+Quicksort,reverse,50000,0,0.0845
+Quicksort,reverse,50000,1,0.071672
+Quicksort,reverse,50000,2,0.069231
+Quicksort,reverse,50000,3,0.076832
+Quicksort,reverse,50000,4,0.069383
+Quicksort,reverse,50000,5,0.070826
+Quicksort,reverse,50000,6,0.069186
+Quicksort,reverse,50000,7,0.070728
+Quicksort,reverse,50000,8,0.069367
+Quicksort,reverse,50000,9,0.07114
+Quicksort,reverse,50000,10,0.069023
+Quicksort,reverse,50000,11,0.071627
+Quicksort,reverse,50000,12,0.071427
+Quicksort,reverse,50000,13,0.070958
+Quicksort,reverse,50000,14,0.08555
+Quicksort,reverse,100000,0,0.150857
+Quicksort,reverse,100000,1,0.149089
+Quicksort,reverse,100000,2,0.152277
+Quicksort,reverse,100000,3,0.151923
+Quicksort,reverse,100000,4,0.151881
+Quicksort,reverse,100000,5,0.151394
+Quicksort,reverse,100000,6,0.168097
+Quicksort,reverse,100000,7,0.147478
+Quicksort,reverse,100000,8,0.152969
+Quicksort,reverse,100000,9,0.152986
+Quicksort,reverse,100000,10,0.150404
+Quicksort,reverse,100000,11,0.149672
+Quicksort,reverse,100000,12,0.151953
+Quicksort,reverse,100000,13,0.162319
+Quicksort,reverse,100000,14,0.151466
+Quicksort,nearly_sorted,100,0,4.2e-05
+Quicksort,nearly_sorted,100,1,3.6e-05
+Quicksort,nearly_sorted,100,2,3.5e-05
+Quicksort,nearly_sorted,100,3,3.6e-05
+Quicksort,nearly_sorted,100,4,4.9e-05
+Quicksort,nearly_sorted,100,5,3.5e-05
+Quicksort,nearly_sorted,100,6,3.5e-05
+Quicksort,nearly_sorted,100,7,3.5e-05
+Quicksort,nearly_sorted,100,8,3.4e-05
+Quicksort,nearly_sorted,100,9,4.1e-05
+Quicksort,nearly_sorted,100,10,3.5e-05
+Quicksort,nearly_sorted,100,11,3.5e-05
+Quicksort,nearly_sorted,100,12,3.6e-05
+Quicksort,nearly_sorted,100,13,3.4e-05
+Quicksort,nearly_sorted,100,14,3.4e-05
+Quicksort,nearly_sorted,500,0,0.000283
+Quicksort,nearly_sorted,500,1,0.000286
+Quicksort,nearly_sorted,500,2,0.00028
+Quicksort,nearly_sorted,500,3,0.000272
+Quicksort,nearly_sorted,500,4,0.000319
+Quicksort,nearly_sorted,500,5,0.000281
+Quicksort,nearly_sorted,500,6,0.000272
+Quicksort,nearly_sorted,500,7,0.000284
+Quicksort,nearly_sorted,500,8,0.000292
+Quicksort,nearly_sorted,500,9,0.000269
+Quicksort,nearly_sorted,500,10,0.000282
+Quicksort,nearly_sorted,500,11,0.000279
+Quicksort,nearly_sorted,500,12,0.000289
+Quicksort,nearly_sorted,500,13,0.000399
+Quicksort,nearly_sorted,500,14,0.00029
+Quicksort,nearly_sorted,1000,0,0.000705
+Quicksort,nearly_sorted,1000,1,0.000626
+Quicksort,nearly_sorted,1000,2,0.000636
+Quicksort,nearly_sorted,1000,3,0.000638
+Quicksort,nearly_sorted,1000,4,0.000645
+Quicksort,nearly_sorted,1000,5,0.000621
+Quicksort,nearly_sorted,1000,6,0.000641
+Quicksort,nearly_sorted,1000,7,0.00066
+Quicksort,nearly_sorted,1000,8,0.00064
+Quicksort,nearly_sorted,1000,9,0.000638
+Quicksort,nearly_sorted,1000,10,0.00065
+Quicksort,nearly_sorted,1000,11,0.000621
+Quicksort,nearly_sorted,1000,12,0.000699
+Quicksort,nearly_sorted,1000,13,0.000725
+Quicksort,nearly_sorted,1000,14,0.000656
+Quicksort,nearly_sorted,5000,0,0.003585
+Quicksort,nearly_sorted,5000,1,0.003781
+Quicksort,nearly_sorted,5000,2,0.004024
+Quicksort,nearly_sorted,5000,3,0.003826
+Quicksort,nearly_sorted,5000,4,0.003702
+Quicksort,nearly_sorted,5000,5,0.003754
+Quicksort,nearly_sorted,5000,6,0.003649
+Quicksort,nearly_sorted,5000,7,0.003717
+Quicksort,nearly_sorted,5000,8,0.003577
+Quicksort,nearly_sorted,5000,9,0.003846
+Quicksort,nearly_sorted,5000,10,0.003723
+Quicksort,nearly_sorted,5000,11,0.003766
+Quicksort,nearly_sorted,5000,12,0.003582
+Quicksort,nearly_sorted,5000,13,0.003649
+Quicksort,nearly_sorted,5000,14,0.00358
+Quicksort,nearly_sorted,10000,0,0.008352
+Quicksort,nearly_sorted,10000,1,0.007637
+Quicksort,nearly_sorted,10000,2,0.007971
+Quicksort,nearly_sorted,10000,3,0.007549
+Quicksort,nearly_sorted,10000,4,0.007897
+Quicksort,nearly_sorted,10000,5,0.007554
+Quicksort,nearly_sorted,10000,6,0.008103
+Quicksort,nearly_sorted,10000,7,0.007543
+Quicksort,nearly_sorted,10000,8,0.008147
+Quicksort,nearly_sorted,10000,9,0.008345
+Quicksort,nearly_sorted,10000,10,0.009631
+Quicksort,nearly_sorted,10000,11,0.00942
+Quicksort,nearly_sorted,10000,12,0.008243
+Quicksort,nearly_sorted,10000,13,0.00802
+Quicksort,nearly_sorted,10000,14,0.007883
+Quicksort,nearly_sorted,50000,0,0.044255
+Quicksort,nearly_sorted,50000,1,0.042532
+Quicksort,nearly_sorted,50000,2,0.041776
+Quicksort,nearly_sorted,50000,3,0.043329
+Quicksort,nearly_sorted,50000,4,0.041343
+Quicksort,nearly_sorted,50000,5,0.046627
+Quicksort,nearly_sorted,50000,6,0.041793
+Quicksort,nearly_sorted,50000,7,0.042187
+Quicksort,nearly_sorted,50000,8,0.041606
+Quicksort,nearly_sorted,50000,9,0.044119
+Quicksort,nearly_sorted,50000,10,0.041277
+Quicksort,nearly_sorted,50000,11,0.06035
+Quicksort,nearly_sorted,50000,12,0.041337
+Quicksort,nearly_sorted,50000,13,0.042545
+Quicksort,nearly_sorted,50000,14,0.041709
+Quicksort,nearly_sorted,100000,0,0.090389
+Quicksort,nearly_sorted,100000,1,0.088104
+Quicksort,nearly_sorted,100000,2,0.093132
+Quicksort,nearly_sorted,100000,3,0.087139
+Quicksort,nearly_sorted,100000,4,0.090928
+Quicksort,nearly_sorted,100000,5,0.087934
+Quicksort,nearly_sorted,100000,6,0.096745
+Quicksort,nearly_sorted,100000,7,0.0888
+Quicksort,nearly_sorted,100000,8,0.090531
+Quicksort,nearly_sorted,100000,9,0.102868
+Quicksort,nearly_sorted,100000,10,0.090569
+Quicksort,nearly_sorted,100000,11,0.087726
+Quicksort,nearly_sorted,100000,12,0.090117
+Quicksort,nearly_sorted,100000,13,0.087321
+Quicksort,nearly_sorted,100000,14,0.09024
+Quicksort,constant,100,0,4.3e-05
+Quicksort,constant,100,1,4e-05
+Quicksort,constant,100,2,3.9e-05
+Quicksort,constant,100,3,3.9e-05
+Quicksort,constant,100,4,4.2e-05
+Quicksort,constant,100,5,3.9e-05
+Quicksort,constant,100,6,3.9e-05
+Quicksort,constant,100,7,3.9e-05
+Quicksort,constant,100,8,3.9e-05
+Quicksort,constant,100,9,3.9e-05
+Quicksort,constant,100,10,3.9e-05
+Quicksort,constant,100,11,3.9e-05
+Quicksort,constant,100,12,3.9e-05
+Quicksort,constant,100,13,4.9e-05
+Quicksort,constant,100,14,3.9e-05
+Quicksort,constant,500,0,0.000348
+Quicksort,constant,500,1,0.000331
+Quicksort,constant,500,2,0.000337
+Quicksort,constant,500,3,0.000334
+Quicksort,constant,500,4,0.000329
+Quicksort,constant,500,5,0.00037
+Quicksort,constant,500,6,0.000346
+Quicksort,constant,500,7,0.000327
+Quicksort,constant,500,8,0.000345
+Quicksort,constant,500,9,0.000333
+Quicksort,constant,500,10,0.000336
+Quicksort,constant,500,11,0.000327
+Quicksort,constant,500,12,0.000331
+Quicksort,constant,500,13,0.000366
+Quicksort,constant,500,14,0.000333
+Quicksort,constant,1000,0,0.000834
+Quicksort,constant,1000,1,0.000777
+Quicksort,constant,1000,2,0.000805
+Quicksort,constant,1000,3,0.000783
+Quicksort,constant,1000,4,0.000796
+Quicksort,constant,1000,5,0.000782
+Quicksort,constant,1000,6,0.000777
+Quicksort,constant,1000,7,0.000767
+Quicksort,constant,1000,8,0.000777
+Quicksort,constant,1000,9,0.000783
+Quicksort,constant,1000,10,0.000769
+Quicksort,constant,1000,11,0.00078
+Quicksort,constant,1000,12,0.000782
+Quicksort,constant,1000,13,0.000774
+Quicksort,constant,1000,14,0.000769
+Quicksort,constant,5000,0,0.00449
+Quicksort,constant,5000,1,0.004823
+Quicksort,constant,5000,2,0.00467
+Quicksort,constant,5000,3,0.004594
+Quicksort,constant,5000,4,0.00453
+Quicksort,constant,5000,5,0.004522
+Quicksort,constant,5000,6,0.004558
+Quicksort,constant,5000,7,0.004594
+Quicksort,constant,5000,8,0.004549
+Quicksort,constant,5000,9,0.004492
+Quicksort,constant,5000,10,0.004567
+Quicksort,constant,5000,11,0.00454
+Quicksort,constant,5000,12,0.004517
+Quicksort,constant,5000,13,0.004513
+Quicksort,constant,5000,14,0.00453
+Quicksort,constant,10000,0,0.009965
+Quicksort,constant,10000,1,0.010148
+Quicksort,constant,10000,2,0.009626
+Quicksort,constant,10000,3,0.009701
+Quicksort,constant,10000,4,0.010053
+Quicksort,constant,10000,5,0.009728
+Quicksort,constant,10000,6,0.009727
+Quicksort,constant,10000,7,0.011616
+Quicksort,constant,10000,8,0.010035
+Quicksort,constant,10000,9,0.010282
+Quicksort,constant,10000,10,0.009992
+Quicksort,constant,10000,11,0.009902
+Quicksort,constant,10000,12,0.009691
+Quicksort,constant,10000,13,0.010597
+Quicksort,constant,10000,14,0.011076
+Quicksort,constant,50000,0,0.055243
+Quicksort,constant,50000,1,0.070029
+Quicksort,constant,50000,2,0.102444
+Quicksort,constant,50000,3,0.122285
+Quicksort,constant,50000,4,0.108414
+Quicksort,constant,50000,5,0.103778
+Quicksort,constant,50000,6,0.112211
+Quicksort,constant,50000,7,0.10634
+Quicksort,constant,50000,8,0.107072
+Quicksort,constant,50000,9,0.107675
+Quicksort,constant,50000,10,0.106774
+Quicksort,constant,50000,11,0.106179
+Quicksort,constant,50000,12,0.106183
+Quicksort,constant,50000,13,0.112985
+Quicksort,constant,50000,14,0.119427
+Quicksort,constant,100000,0,0.247652
+Quicksort,constant,100000,1,0.240362
+Quicksort,constant,100000,2,0.214501
+Quicksort,constant,100000,3,0.2253
+Quicksort,constant,100000,4,0.219641
+Quicksort,constant,100000,5,0.222388
+Quicksort,constant,100000,6,0.138269
+Quicksort,constant,100000,7,0.118941
+Quicksort,constant,100000,8,0.118327
+Quicksort,constant,100000,9,0.117593
+Quicksort,constant,100000,10,0.134586
+Quicksort,constant,100000,11,0.121375
+Quicksort,constant,100000,12,0.116908
+Quicksort,constant,100000,13,0.11836
+Quicksort,constant,100000,14,0.119533
+Heap Sort,random,100,0,0.000152
+Heap Sort,random,100,1,0.000133
+Heap Sort,random,100,2,0.000131
+Heap Sort,random,100,3,0.000133
+Heap Sort,random,100,4,0.000131
+Heap Sort,random,100,5,0.000136
+Heap Sort,random,100,6,0.000128
+Heap Sort,random,100,7,0.00013
+Heap Sort,random,100,8,0.000135
+Heap Sort,random,100,9,0.000133
+Heap Sort,random,100,10,0.000135
+Heap Sort,random,100,11,0.00013
+Heap Sort,random,100,12,0.000133
+Heap Sort,random,100,13,0.00013
+Heap Sort,random,100,14,0.000129
+Heap Sort,random,500,0,0.001028
+Heap Sort,random,500,1,0.000964
+Heap Sort,random,500,2,0.000966
+Heap Sort,random,500,3,0.000944
+Heap Sort,random,500,4,0.00096
+Heap Sort,random,500,5,0.000949
+Heap Sort,random,500,6,0.00098
+Heap Sort,random,500,7,0.001019
+Heap Sort,random,500,8,0.001004
+Heap Sort,random,500,9,0.000993
+Heap Sort,random,500,10,0.001
+Heap Sort,random,500,11,0.000997
+Heap Sort,random,500,12,0.000949
+Heap Sort,random,500,13,0.000952
+Heap Sort,random,500,14,0.000946
+Heap Sort,random,1000,0,0.002268
+Heap Sort,random,1000,1,0.002243
+Heap Sort,random,1000,2,0.00225
+Heap Sort,random,1000,3,0.002239
+Heap Sort,random,1000,4,0.002425
+Heap Sort,random,1000,5,0.002222
+Heap Sort,random,1000,6,0.002274
+Heap Sort,random,1000,7,0.002189
+Heap Sort,random,1000,8,0.002186
+Heap Sort,random,1000,9,0.002204
+Heap Sort,random,1000,10,0.002251
+Heap Sort,random,1000,11,0.003351
+Heap Sort,random,1000,12,0.002481
+Heap Sort,random,1000,13,0.002336
+Heap Sort,random,1000,14,0.002235
+Heap Sort,random,5000,0,0.0144
+Heap Sort,random,5000,1,0.014589
+Heap Sort,random,5000,2,0.014514
+Heap Sort,random,5000,3,0.01484
+Heap Sort,random,5000,4,0.014375
+Heap Sort,random,5000,5,0.015137
+Heap Sort,random,5000,6,0.014451
+Heap Sort,random,5000,7,0.016414
+Heap Sort,random,5000,8,0.014482
+Heap Sort,random,5000,9,0.01465
+Heap Sort,random,5000,10,0.015566
+Heap Sort,random,5000,11,0.014953
+Heap Sort,random,5000,12,0.014522
+Heap Sort,random,5000,13,0.014474
+Heap Sort,random,5000,14,0.01451
+Heap Sort,random,10000,0,0.032812
+Heap Sort,random,10000,1,0.032013
+Heap Sort,random,10000,2,0.049113
+Heap Sort,random,10000,3,0.033077
+Heap Sort,random,10000,4,0.03267
+Heap Sort,random,10000,5,0.039667
+Heap Sort,random,10000,6,0.032886
+Heap Sort,random,10000,7,0.032121
+Heap Sort,random,10000,8,0.03248
+Heap Sort,random,10000,9,0.031953
+Heap Sort,random,10000,10,0.033055
+Heap Sort,random,10000,11,0.040412
+Heap Sort,random,10000,12,0.034582
+Heap Sort,random,10000,13,0.032364
+Heap Sort,random,10000,14,0.032887
+Heap Sort,random,50000,0,0.220628
+Heap Sort,random,50000,1,0.217393
+Heap Sort,random,50000,2,0.215576
+Heap Sort,random,50000,3,0.219473
+Heap Sort,random,50000,4,0.220697
+Heap Sort,random,50000,5,0.215703
+Heap Sort,random,50000,6,0.240326
+Heap Sort,random,50000,7,0.215293
+Heap Sort,random,50000,8,0.214869
+Heap Sort,random,50000,9,0.214077
+Heap Sort,random,50000,10,0.235221
+Heap Sort,random,50000,11,0.235524
+Heap Sort,random,50000,12,0.220114
+Heap Sort,random,50000,13,0.212549
+Heap Sort,random,50000,14,0.227508
+Heap Sort,random,100000,0,0.510418
+Heap Sort,random,100000,1,0.528674
+Heap Sort,random,100000,2,0.505959
+Heap Sort,random,100000,3,0.525807
+Heap Sort,random,100000,4,0.512086
+Heap Sort,random,100000,5,0.529993
+Heap Sort,random,100000,6,0.551947
+Heap Sort,random,100000,7,0.952114
+Heap Sort,random,100000,8,0.99558
+Heap Sort,random,100000,9,0.788809
+Heap Sort,random,100000,10,0.526386
+Heap Sort,random,100000,11,0.537251
+Heap Sort,random,100000,12,0.526547
+Heap Sort,random,100000,13,0.541707
+Heap Sort,random,100000,14,0.527744
+Heap Sort,sorted,100,0,0.000143
+Heap Sort,sorted,100,1,0.000144
+Heap Sort,sorted,100,2,0.000135
+Heap Sort,sorted,100,3,0.000134
+Heap Sort,sorted,100,4,0.000144
+Heap Sort,sorted,100,5,0.000134
+Heap Sort,sorted,100,6,0.000134
+Heap Sort,sorted,100,7,0.000135
+Heap Sort,sorted,100,8,0.000139
+Heap Sort,sorted,100,9,0.000134
+Heap Sort,sorted,100,10,0.000134
+Heap Sort,sorted,100,11,0.000143
+Heap Sort,sorted,100,12,0.000135
+Heap Sort,sorted,100,13,0.000135
+Heap Sort,sorted,100,14,0.000135
+Heap Sort,sorted,500,0,0.001048
+Heap Sort,sorted,500,1,0.001015
+Heap Sort,sorted,500,2,0.001001
+Heap Sort,sorted,500,3,0.001005
+Heap Sort,sorted,500,4,0.001037
+Heap Sort,sorted,500,5,0.001002
+Heap Sort,sorted,500,6,0.000997
+Heap Sort,sorted,500,7,0.000997
+Heap Sort,sorted,500,8,0.001001
+Heap Sort,sorted,500,9,0.001025
+Heap Sort,sorted,500,10,0.001014
+Heap Sort,sorted,500,11,0.001007
+Heap Sort,sorted,500,12,0.001003
+Heap Sort,sorted,500,13,0.001003
+Heap Sort,sorted,500,14,0.001003
+Heap Sort,sorted,1000,0,0.002318
+Heap Sort,sorted,1000,1,0.002298
+Heap Sort,sorted,1000,2,0.002326
+Heap Sort,sorted,1000,3,0.002287
+Heap Sort,sorted,1000,4,0.002334
+Heap Sort,sorted,1000,5,0.002305
+Heap Sort,sorted,1000,6,0.002329
+Heap Sort,sorted,1000,7,0.002349
+Heap Sort,sorted,1000,8,0.002318
+Heap Sort,sorted,1000,9,0.002441
+Heap Sort,sorted,1000,10,0.002313
+Heap Sort,sorted,1000,11,0.002377
+Heap Sort,sorted,1000,12,0.002353
+Heap Sort,sorted,1000,13,0.002314
+Heap Sort,sorted,1000,14,0.002329
+Heap Sort,sorted,5000,0,0.015333
+Heap Sort,sorted,5000,1,0.015622
+Heap Sort,sorted,5000,2,0.016567
+Heap Sort,sorted,5000,3,0.015982
+Heap Sort,sorted,5000,4,0.01528
+Heap Sort,sorted,5000,5,0.015406
+Heap Sort,sorted,5000,6,0.024936
+Heap Sort,sorted,5000,7,0.023536
+Heap Sort,sorted,5000,8,0.015501
+Heap Sort,sorted,5000,9,0.015479
+Heap Sort,sorted,5000,10,0.015332
+Heap Sort,sorted,5000,11,0.015475
+Heap Sort,sorted,5000,12,0.017023
+Heap Sort,sorted,5000,13,0.017805
+Heap Sort,sorted,5000,14,0.015127
+Heap Sort,sorted,10000,0,0.033827
+Heap Sort,sorted,10000,1,0.033572
+Heap Sort,sorted,10000,2,0.034318
+Heap Sort,sorted,10000,3,0.033884
+Heap Sort,sorted,10000,4,0.033827
+Heap Sort,sorted,10000,5,0.035758
+Heap Sort,sorted,10000,6,0.034001
+Heap Sort,sorted,10000,7,0.035075
+Heap Sort,sorted,10000,8,0.039231
+Heap Sort,sorted,10000,9,0.034161
+Heap Sort,sorted,10000,10,0.033695
+Heap Sort,sorted,10000,11,0.034026
+Heap Sort,sorted,10000,12,0.033814
+Heap Sort,sorted,10000,13,0.034107
+Heap Sort,sorted,10000,14,0.033833
+Heap Sort,sorted,50000,0,0.210789
+Heap Sort,sorted,50000,1,0.22606
+Heap Sort,sorted,50000,2,0.203665
+Heap Sort,sorted,50000,3,0.208195
+Heap Sort,sorted,50000,4,0.203493
+Heap Sort,sorted,50000,5,0.203479
+Heap Sort,sorted,50000,6,0.222036
+Heap Sort,sorted,50000,7,0.205932
+Heap Sort,sorted,50000,8,0.210385
+Heap Sort,sorted,50000,9,0.205275
+Heap Sort,sorted,50000,10,0.201939
+Heap Sort,sorted,50000,11,0.223931
+Heap Sort,sorted,50000,12,0.203095
+Heap Sort,sorted,50000,13,0.211656
+Heap Sort,sorted,50000,14,0.203108
+Heap Sort,sorted,100000,0,0.462602
+Heap Sort,sorted,100000,1,0.444057
+Heap Sort,sorted,100000,2,0.462642
+Heap Sort,sorted,100000,3,0.442127
+Heap Sort,sorted,100000,4,0.44174
+Heap Sort,sorted,100000,5,0.463962
+Heap Sort,sorted,100000,6,0.788383
+Heap Sort,sorted,100000,7,0.869115
+Heap Sort,sorted,100000,8,0.870642
+Heap Sort,sorted,100000,9,0.629964
+Heap Sort,sorted,100000,10,0.446072
+Heap Sort,sorted,100000,11,0.456405
+Heap Sort,sorted,100000,12,0.444621
+Heap Sort,sorted,100000,13,0.455316
+Heap Sort,sorted,100000,14,0.441364
+Heap Sort,reverse,100,0,0.000132
+Heap Sort,reverse,100,1,0.000113
+Heap Sort,reverse,100,2,0.000112
+Heap Sort,reverse,100,3,0.000119
+Heap Sort,reverse,100,4,0.000113
+Heap Sort,reverse,100,5,0.000115
+Heap Sort,reverse,100,6,0.000113
+Heap Sort,reverse,100,7,0.000112
+Heap Sort,reverse,100,8,0.00012
+Heap Sort,reverse,100,9,0.000123
+Heap Sort,reverse,100,10,0.000108
+Heap Sort,reverse,100,11,0.000136
+Heap Sort,reverse,100,12,0.000115
+Heap Sort,reverse,100,13,0.00012
+Heap Sort,reverse,100,14,0.000112
+Heap Sort,reverse,500,0,0.000891
+Heap Sort,reverse,500,1,0.000852
+Heap Sort,reverse,500,2,0.000847
+Heap Sort,reverse,500,3,0.000847
+Heap Sort,reverse,500,4,0.000867
+Heap Sort,reverse,500,5,0.000858
+Heap Sort,reverse,500,6,0.000848
+Heap Sort,reverse,500,7,0.000842
+Heap Sort,reverse,500,8,0.000885
+Heap Sort,reverse,500,9,0.000852
+Heap Sort,reverse,500,10,0.000875
+Heap Sort,reverse,500,11,0.000872
+Heap Sort,reverse,500,12,0.000849
+Heap Sort,reverse,500,13,0.000854
+Heap Sort,reverse,500,14,0.000849
+Heap Sort,reverse,1000,0,0.002062
+Heap Sort,reverse,1000,1,0.001989
+Heap Sort,reverse,1000,2,0.001904
+Heap Sort,reverse,1000,3,0.001992
+Heap Sort,reverse,1000,4,0.001975
+Heap Sort,reverse,1000,5,0.002007
+Heap Sort,reverse,1000,6,0.001999
+Heap Sort,reverse,1000,7,0.001965
+Heap Sort,reverse,1000,8,0.001996
+Heap Sort,reverse,1000,9,0.001971
+Heap Sort,reverse,1000,10,0.001928
+Heap Sort,reverse,1000,11,0.001993
+Heap Sort,reverse,1000,12,0.002004
+Heap Sort,reverse,1000,13,0.002007
+Heap Sort,reverse,1000,14,0.002013
+Heap Sort,reverse,5000,0,0.013762
+Heap Sort,reverse,5000,1,0.015619
+Heap Sort,reverse,5000,2,0.013375
+Heap Sort,reverse,5000,3,0.013744
+Heap Sort,reverse,5000,4,0.013501
+Heap Sort,reverse,5000,5,0.014921
+Heap Sort,reverse,5000,6,0.013593
+Heap Sort,reverse,5000,7,0.013645
+Heap Sort,reverse,5000,8,0.013521
+Heap Sort,reverse,5000,9,0.013432
+Heap Sort,reverse,5000,10,0.013577
+Heap Sort,reverse,5000,11,0.013518
+Heap Sort,reverse,5000,12,0.013777
+Heap Sort,reverse,5000,13,0.01337
+Heap Sort,reverse,5000,14,0.015969
+Heap Sort,reverse,10000,0,0.029776
+Heap Sort,reverse,10000,1,0.029367
+Heap Sort,reverse,10000,2,0.029781
+Heap Sort,reverse,10000,3,0.029724
+Heap Sort,reverse,10000,4,0.029876
+Heap Sort,reverse,10000,5,0.029983
+Heap Sort,reverse,10000,6,0.029911
+Heap Sort,reverse,10000,7,0.029845
+Heap Sort,reverse,10000,8,0.036235
+Heap Sort,reverse,10000,9,0.045714
+Heap Sort,reverse,10000,10,0.03109
+Heap Sort,reverse,10000,11,0.029424
+Heap Sort,reverse,10000,12,0.029965
+Heap Sort,reverse,10000,13,0.029545
+Heap Sort,reverse,10000,14,0.029765
+Heap Sort,reverse,50000,0,0.190183
+Heap Sort,reverse,50000,1,0.188488
+Heap Sort,reverse,50000,2,0.184428
+Heap Sort,reverse,50000,3,0.189667
+Heap Sort,reverse,50000,4,0.203904
+Heap Sort,reverse,50000,5,0.187215
+Heap Sort,reverse,50000,6,0.184784
+Heap Sort,reverse,50000,7,0.189021
+Heap Sort,reverse,50000,8,0.185949
+Heap Sort,reverse,50000,9,0.205745
+Heap Sort,reverse,50000,10,0.183588
+Heap Sort,reverse,50000,11,0.184718
+Heap Sort,reverse,50000,12,0.186652
+Heap Sort,reverse,50000,13,0.186835
+Heap Sort,reverse,50000,14,0.18681
+Heap Sort,reverse,100000,0,0.421211
+Heap Sort,reverse,100000,1,0.409261
+Heap Sort,reverse,100000,2,0.421619
+Heap Sort,reverse,100000,3,0.403108
+Heap Sort,reverse,100000,4,0.412708
+Heap Sort,reverse,100000,5,0.416713
+Heap Sort,reverse,100000,6,0.408267
+Heap Sort,reverse,100000,7,0.422152
+Heap Sort,reverse,100000,8,0.419545
+Heap Sort,reverse,100000,9,0.675924
+Heap Sort,reverse,100000,10,0.792757
+Heap Sort,reverse,100000,11,0.807091
+Heap Sort,reverse,100000,12,0.735152
+Heap Sort,reverse,100000,13,0.411374
+Heap Sort,reverse,100000,14,0.425041
+Heap Sort,nearly_sorted,100,0,0.000144
+Heap Sort,nearly_sorted,100,1,0.000135
+Heap Sort,nearly_sorted,100,2,0.000142
+Heap Sort,nearly_sorted,100,3,0.000134
+Heap Sort,nearly_sorted,100,4,0.000134
+Heap Sort,nearly_sorted,100,5,0.000143
+Heap Sort,nearly_sorted,100,6,0.000135
+Heap Sort,nearly_sorted,100,7,0.000137
+Heap Sort,nearly_sorted,100,8,0.000135
+Heap Sort,nearly_sorted,100,9,0.000135
+Heap Sort,nearly_sorted,100,10,0.000135
+Heap Sort,nearly_sorted,100,11,0.000134
+Heap Sort,nearly_sorted,100,12,0.000143
+Heap Sort,nearly_sorted,100,13,0.000135
+Heap Sort,nearly_sorted,100,14,0.000135
+Heap Sort,nearly_sorted,500,0,0.001042
+Heap Sort,nearly_sorted,500,1,0.00104
+Heap Sort,nearly_sorted,500,2,0.001005
+Heap Sort,nearly_sorted,500,3,0.001023
+Heap Sort,nearly_sorted,500,4,0.001034
+Heap Sort,nearly_sorted,500,5,0.001011
+Heap Sort,nearly_sorted,500,6,0.001069
+Heap Sort,nearly_sorted,500,7,0.001147
+Heap Sort,nearly_sorted,500,8,0.001101
+Heap Sort,nearly_sorted,500,9,0.001039
+Heap Sort,nearly_sorted,500,10,0.001037
+Heap Sort,nearly_sorted,500,11,0.001009
+Heap Sort,nearly_sorted,500,12,0.001078
+Heap Sort,nearly_sorted,500,13,0.00102
+Heap Sort,nearly_sorted,500,14,0.001008
+Heap Sort,nearly_sorted,1000,0,0.002348
+Heap Sort,nearly_sorted,1000,1,0.002304
+Heap Sort,nearly_sorted,1000,2,0.002348
+Heap Sort,nearly_sorted,1000,3,0.002294
+Heap Sort,nearly_sorted,1000,4,0.002338
+Heap Sort,nearly_sorted,1000,5,0.002314
+Heap Sort,nearly_sorted,1000,6,0.002401
+Heap Sort,nearly_sorted,1000,7,0.002312
+Heap Sort,nearly_sorted,1000,8,0.002377
+Heap Sort,nearly_sorted,1000,9,0.002332
+Heap Sort,nearly_sorted,1000,10,0.002327
+Heap Sort,nearly_sorted,1000,11,0.002329
+Heap Sort,nearly_sorted,1000,12,0.002397
+Heap Sort,nearly_sorted,1000,13,0.002319
+Heap Sort,nearly_sorted,1000,14,0.002312
+Heap Sort,nearly_sorted,5000,0,0.015936
+Heap Sort,nearly_sorted,5000,1,0.015371
+Heap Sort,nearly_sorted,5000,2,0.015148
+Heap Sort,nearly_sorted,5000,3,0.015426
+Heap Sort,nearly_sorted,5000,4,0.015634
+Heap Sort,nearly_sorted,5000,5,0.015436
+Heap Sort,nearly_sorted,5000,6,0.015506
+Heap Sort,nearly_sorted,5000,7,0.015275
+Heap Sort,nearly_sorted,5000,8,0.015332
+Heap Sort,nearly_sorted,5000,9,0.015417
+Heap Sort,nearly_sorted,5000,10,0.015194
+Heap Sort,nearly_sorted,5000,11,0.015337
+Heap Sort,nearly_sorted,5000,12,0.015306
+Heap Sort,nearly_sorted,5000,13,0.017788
+Heap Sort,nearly_sorted,5000,14,0.016614
+Heap Sort,nearly_sorted,10000,0,0.037225
+Heap Sort,nearly_sorted,10000,1,0.034038
+Heap Sort,nearly_sorted,10000,2,0.035549
+Heap Sort,nearly_sorted,10000,3,0.034888
+Heap Sort,nearly_sorted,10000,4,0.034385
+Heap Sort,nearly_sorted,10000,5,0.034111
+Heap Sort,nearly_sorted,10000,6,0.036488
+Heap Sort,nearly_sorted,10000,7,0.038527
+Heap Sort,nearly_sorted,10000,8,0.034511
+Heap Sort,nearly_sorted,10000,9,0.033996
+Heap Sort,nearly_sorted,10000,10,0.033613
+Heap Sort,nearly_sorted,10000,11,0.033721
+Heap Sort,nearly_sorted,10000,12,0.033694
+Heap Sort,nearly_sorted,10000,13,0.036144
+Heap Sort,nearly_sorted,10000,14,0.047618
+Heap Sort,nearly_sorted,50000,0,0.207961
+Heap Sort,nearly_sorted,50000,1,0.207017
+Heap Sort,nearly_sorted,50000,2,0.204065
+Heap Sort,nearly_sorted,50000,3,0.205889
+Heap Sort,nearly_sorted,50000,4,0.217434
+Heap Sort,nearly_sorted,50000,5,0.207829
+Heap Sort,nearly_sorted,50000,6,0.213981
+Heap Sort,nearly_sorted,50000,7,0.204328
+Heap Sort,nearly_sorted,50000,8,0.203122
+Heap Sort,nearly_sorted,50000,9,0.223035
+Heap Sort,nearly_sorted,50000,10,0.203191
+Heap Sort,nearly_sorted,50000,11,0.207135
+Heap Sort,nearly_sorted,50000,12,0.202696
+Heap Sort,nearly_sorted,50000,13,0.203797
+Heap Sort,nearly_sorted,50000,14,0.220926
+Heap Sort,nearly_sorted,100000,0,0.450917
+Heap Sort,nearly_sorted,100000,1,0.440106
+Heap Sort,nearly_sorted,100000,2,0.462344
+Heap Sort,nearly_sorted,100000,3,0.43773
+Heap Sort,nearly_sorted,100000,4,0.459668
+Heap Sort,nearly_sorted,100000,5,0.440039
+Heap Sort,nearly_sorted,100000,6,0.459354
+Heap Sort,nearly_sorted,100000,7,0.443288
+Heap Sort,nearly_sorted,100000,8,0.458386
+Heap Sort,nearly_sorted,100000,9,0.442876
+Heap Sort,nearly_sorted,100000,10,0.443503
+Heap Sort,nearly_sorted,100000,11,0.757905
+Heap Sort,nearly_sorted,100000,12,0.883758
+Heap Sort,nearly_sorted,100000,13,0.856728
+Heap Sort,nearly_sorted,100000,14,0.655297
+Heap Sort,constant,100,0,3.6e-05
+Heap Sort,constant,100,1,3e-05
+Heap Sort,constant,100,2,2.9e-05
+Heap Sort,constant,100,3,2.9e-05
+Heap Sort,constant,100,4,4.2e-05
+Heap Sort,constant,100,5,2.9e-05
+Heap Sort,constant,100,6,2.9e-05
+Heap Sort,constant,100,7,2.9e-05
+Heap Sort,constant,100,8,2.9e-05
+Heap Sort,constant,100,9,2.9e-05
+Heap Sort,constant,100,10,3e-05
+Heap Sort,constant,100,11,2.9e-05
+Heap Sort,constant,100,12,3.4e-05
+Heap Sort,constant,100,13,2.9e-05
+Heap Sort,constant,100,14,2.9e-05
+Heap Sort,constant,500,0,0.00017
+Heap Sort,constant,500,1,0.000173
+Heap Sort,constant,500,2,0.000154
+Heap Sort,constant,500,3,0.000164
+Heap Sort,constant,500,4,0.000159
+Heap Sort,constant,500,5,0.000166
+Heap Sort,constant,500,6,0.00017
+Heap Sort,constant,500,7,0.000154
+Heap Sort,constant,500,8,0.000181
+Heap Sort,constant,500,9,0.000163
+Heap Sort,constant,500,10,0.000158
+Heap Sort,constant,500,11,0.000184
+Heap Sort,constant,500,12,0.000155
+Heap Sort,constant,500,13,0.000154
+Heap Sort,constant,500,14,0.000164
+Heap Sort,constant,1000,0,0.000335
+Heap Sort,constant,1000,1,0.000326
+Heap Sort,constant,1000,2,0.000334
+Heap Sort,constant,1000,3,0.000328
+Heap Sort,constant,1000,4,0.000324
+Heap Sort,constant,1000,5,0.00033
+Heap Sort,constant,1000,6,0.000327
+Heap Sort,constant,1000,7,0.000326
+Heap Sort,constant,1000,8,0.000361
+Heap Sort,constant,1000,9,0.000333
+Heap Sort,constant,1000,10,0.000324
+Heap Sort,constant,1000,11,0.00034
+Heap Sort,constant,1000,12,0.000331
+Heap Sort,constant,1000,13,0.000324
+Heap Sort,constant,1000,14,0.00037
+Heap Sort,constant,5000,0,0.001726
+Heap Sort,constant,5000,1,0.001706
+Heap Sort,constant,5000,2,0.001863
+Heap Sort,constant,5000,3,0.001798
+Heap Sort,constant,5000,4,0.001708
+Heap Sort,constant,5000,5,0.001703
+Heap Sort,constant,5000,6,0.001702
+Heap Sort,constant,5000,7,0.001753
+Heap Sort,constant,5000,8,0.001708
+Heap Sort,constant,5000,9,0.001691
+Heap Sort,constant,5000,10,0.001719
+Heap Sort,constant,5000,11,0.001763
+Heap Sort,constant,5000,12,0.001734
+Heap Sort,constant,5000,13,0.001692
+Heap Sort,constant,5000,14,0.001697
+Heap Sort,constant,10000,0,0.003496
+Heap Sort,constant,10000,1,0.003566
+Heap Sort,constant,10000,2,0.003582
+Heap Sort,constant,10000,3,0.003449
+Heap Sort,constant,10000,4,0.003739
+Heap Sort,constant,10000,5,0.003496
+Heap Sort,constant,10000,6,0.003435
+Heap Sort,constant,10000,7,0.003436
+Heap Sort,constant,10000,8,0.003406
+Heap Sort,constant,10000,9,0.003414
+Heap Sort,constant,10000,10,0.003394
+Heap Sort,constant,10000,11,0.003951
+Heap Sort,constant,10000,12,0.00649
+Heap Sort,constant,10000,13,0.00662
+Heap Sort,constant,10000,14,0.00669
+Heap Sort,constant,50000,0,0.023448
+Heap Sort,constant,50000,1,0.020003
+Heap Sort,constant,50000,2,0.018961
+Heap Sort,constant,50000,3,0.017161
+Heap Sort,constant,50000,4,0.017207
+Heap Sort,constant,50000,5,0.017115
+Heap Sort,constant,50000,6,0.017289
+Heap Sort,constant,50000,7,0.017241
+Heap Sort,constant,50000,8,0.019581
+Heap Sort,constant,50000,9,0.017006
+Heap Sort,constant,50000,10,0.017231
+Heap Sort,constant,50000,11,0.01727
+Heap Sort,constant,50000,12,0.017268
+Heap Sort,constant,50000,13,0.017716
+Heap Sort,constant,50000,14,0.017697
+Heap Sort,constant,100000,0,0.036202
+Heap Sort,constant,100000,1,0.035599
+Heap Sort,constant,100000,2,0.035795
+Heap Sort,constant,100000,3,0.035849
+Heap Sort,constant,100000,4,0.036007
+Heap Sort,constant,100000,5,0.035327
+Heap Sort,constant,100000,6,0.035317
+Heap Sort,constant,100000,7,0.040316
+Heap Sort,constant,100000,8,0.036381
+Heap Sort,constant,100000,9,0.035142
+Heap Sort,constant,100000,10,0.035897
+Heap Sort,constant,100000,11,0.036674
+Heap Sort,constant,100000,12,0.037315
+Heap Sort,constant,100000,13,0.034919
+Heap Sort,constant,100000,14,0.035173
+Timsort,random,100,0,3e-05
+Timsort,random,100,1,9e-06
+Timsort,random,100,2,8e-06
+Timsort,random,100,3,8e-06
+Timsort,random,100,4,8e-06
+Timsort,random,100,5,9e-06
+Timsort,random,100,6,8e-06
+Timsort,random,100,7,8e-06
+Timsort,random,100,8,8e-06
+Timsort,random,100,9,8e-06
+Timsort,random,100,10,8e-06
+Timsort,random,100,11,8e-06
+Timsort,random,100,12,8e-06
+Timsort,random,100,13,8e-06
+Timsort,random,100,14,8e-06
+Timsort,random,500,0,5.5e-05
+Timsort,random,500,1,5.5e-05
+Timsort,random,500,2,5.2e-05
+Timsort,random,500,3,5.2e-05
+Timsort,random,500,4,5.2e-05
+Timsort,random,500,5,5.3e-05
+Timsort,random,500,6,5.1e-05
+Timsort,random,500,7,5.1e-05
+Timsort,random,500,8,5.1e-05
+Timsort,random,500,9,5.1e-05
+Timsort,random,500,10,5.1e-05
+Timsort,random,500,11,5.5e-05
+Timsort,random,500,12,5e-05
+Timsort,random,500,13,5.9e-05
+Timsort,random,500,14,5.1e-05
+Timsort,random,1000,0,0.000117
+Timsort,random,1000,1,0.000122
+Timsort,random,1000,2,0.000115
+Timsort,random,1000,3,0.000119
+Timsort,random,1000,4,0.000114
+Timsort,random,1000,5,0.000114
+Timsort,random,1000,6,0.000116
+Timsort,random,1000,7,0.000115
+Timsort,random,1000,8,0.000116
+Timsort,random,1000,9,0.000114
+Timsort,random,1000,10,0.000114
+Timsort,random,1000,11,0.000119
+Timsort,random,1000,12,0.000115
+Timsort,random,1000,13,0.000116
+Timsort,random,1000,14,0.00012
+Timsort,random,5000,0,0.000755
+Timsort,random,5000,1,0.000778
+Timsort,random,5000,2,0.000777
+Timsort,random,5000,3,0.000729
+Timsort,random,5000,4,0.000712
+Timsort,random,5000,5,0.000766
+Timsort,random,5000,6,0.000793
+Timsort,random,5000,7,0.000745
+Timsort,random,5000,8,0.000737
+Timsort,random,5000,9,0.000745
+Timsort,random,5000,10,0.000793
+Timsort,random,5000,11,0.000863
+Timsort,random,5000,12,0.000762
+Timsort,random,5000,13,0.000746
+Timsort,random,5000,14,0.000743
+Timsort,random,10000,0,0.00164
+Timsort,random,10000,1,0.001631
+Timsort,random,10000,2,0.001641
+Timsort,random,10000,3,0.001704
+Timsort,random,10000,4,0.001643
+Timsort,random,10000,5,0.001833
+Timsort,random,10000,6,0.001642
+Timsort,random,10000,7,0.00166
+Timsort,random,10000,8,0.001724
+Timsort,random,10000,9,0.001633
+Timsort,random,10000,10,0.001631
+Timsort,random,10000,11,0.002016
+Timsort,random,10000,12,0.001768
+Timsort,random,10000,13,0.002313
+Timsort,random,10000,14,0.002331
+Timsort,random,50000,0,0.010887
+Timsort,random,50000,1,0.010211
+Timsort,random,50000,2,0.010499
+Timsort,random,50000,3,0.010199
+Timsort,random,50000,4,0.010378
+Timsort,random,50000,5,0.01064
+Timsort,random,50000,6,0.010299
+Timsort,random,50000,7,0.011142
+Timsort,random,50000,8,0.010385
+Timsort,random,50000,9,0.010459
+Timsort,random,50000,10,0.010437
+Timsort,random,50000,11,0.01041
+Timsort,random,50000,12,0.010508
+Timsort,random,50000,13,0.010297
+Timsort,random,50000,14,0.010354
+Timsort,random,100000,0,0.02565
+Timsort,random,100000,1,0.023983
+Timsort,random,100000,2,0.025707
+Timsort,random,100000,3,0.024811
+Timsort,random,100000,4,0.035931
+Timsort,random,100000,5,0.025004
+Timsort,random,100000,6,0.025731
+Timsort,random,100000,7,0.024441
+Timsort,random,100000,8,0.024286
+Timsort,random,100000,9,0.025022
+Timsort,random,100000,10,0.025528
+Timsort,random,100000,11,0.025473
+Timsort,random,100000,12,0.027057
+Timsort,random,100000,13,0.024788
+Timsort,random,100000,14,0.024256
+Timsort,sorted,100,0,5e-06
+Timsort,sorted,100,1,1e-06
+Timsort,sorted,100,2,1e-06
+Timsort,sorted,100,3,1e-06
+Timsort,sorted,100,4,1e-06
+Timsort,sorted,100,5,1e-06
+Timsort,sorted,100,6,1e-06
+Timsort,sorted,100,7,1e-06
+Timsort,sorted,100,8,1e-06
+Timsort,sorted,100,9,1e-06
+Timsort,sorted,100,10,1e-06
+Timsort,sorted,100,11,1e-06
+Timsort,sorted,100,12,1e-06
+Timsort,sorted,100,13,1e-06
+Timsort,sorted,100,14,1e-06
+Timsort,sorted,500,0,1.2e-05
+Timsort,sorted,500,1,4e-06
+Timsort,sorted,500,2,4e-06
+Timsort,sorted,500,3,4e-06
+Timsort,sorted,500,4,4e-06
+Timsort,sorted,500,5,4e-06
+Timsort,sorted,500,6,4e-06
+Timsort,sorted,500,7,4e-06
+Timsort,sorted,500,8,4e-06
+Timsort,sorted,500,9,4e-06
+Timsort,sorted,500,10,4e-06
+Timsort,sorted,500,11,4e-06
+Timsort,sorted,500,12,4e-06
+Timsort,sorted,500,13,4e-06
+Timsort,sorted,500,14,4e-06
+Timsort,sorted,1000,0,2.7e-05
+Timsort,sorted,1000,1,8e-06
+Timsort,sorted,1000,2,7e-06
+Timsort,sorted,1000,3,7e-06
+Timsort,sorted,1000,4,7e-06
+Timsort,sorted,1000,5,7e-06
+Timsort,sorted,1000,6,7e-06
+Timsort,sorted,1000,7,7e-06
+Timsort,sorted,1000,8,1.1e-05
+Timsort,sorted,1000,9,7e-06
+Timsort,sorted,1000,10,7e-06
+Timsort,sorted,1000,11,7e-06
+Timsort,sorted,1000,12,7e-06
+Timsort,sorted,1000,13,7e-06
+Timsort,sorted,1000,14,7e-06
+Timsort,sorted,5000,0,3.8e-05
+Timsort,sorted,5000,1,3.9e-05
+Timsort,sorted,5000,2,3.6e-05
+Timsort,sorted,5000,3,3.6e-05
+Timsort,sorted,5000,4,3.6e-05
+Timsort,sorted,5000,5,3.6e-05
+Timsort,sorted,5000,6,3.6e-05
+Timsort,sorted,5000,7,3.6e-05
+Timsort,sorted,5000,8,3.6e-05
+Timsort,sorted,5000,9,3.6e-05
+Timsort,sorted,5000,10,3.6e-05
+Timsort,sorted,5000,11,4e-05
+Timsort,sorted,5000,12,3.7e-05
+Timsort,sorted,5000,13,3.6e-05
+Timsort,sorted,5000,14,3.7e-05
+Timsort,sorted,10000,0,8.3e-05
+Timsort,sorted,10000,1,7.5e-05
+Timsort,sorted,10000,2,9.5e-05
+Timsort,sorted,10000,3,7.4e-05
+Timsort,sorted,10000,4,7.9e-05
+Timsort,sorted,10000,5,7.4e-05
+Timsort,sorted,10000,6,8.1e-05
+Timsort,sorted,10000,7,7.4e-05
+Timsort,sorted,10000,8,7.3e-05
+Timsort,sorted,10000,9,7.4e-05
+Timsort,sorted,10000,10,7.3e-05
+Timsort,sorted,10000,11,7.3e-05
+Timsort,sorted,10000,12,7.1e-05
+Timsort,sorted,10000,13,9.1e-05
+Timsort,sorted,10000,14,7.5e-05
+Timsort,sorted,50000,0,0.000649
+Timsort,sorted,50000,1,0.00041
+Timsort,sorted,50000,2,0.000428
+Timsort,sorted,50000,3,0.000424
+Timsort,sorted,50000,4,0.000426
+Timsort,sorted,50000,5,0.00042
+Timsort,sorted,50000,6,0.000457
+Timsort,sorted,50000,7,0.000441
+Timsort,sorted,50000,8,0.000428
+Timsort,sorted,50000,9,0.000502
+Timsort,sorted,50000,10,0.00042
+Timsort,sorted,50000,11,0.000411
+Timsort,sorted,50000,12,0.000426
+Timsort,sorted,50000,13,0.000424
+Timsort,sorted,50000,14,0.000613
+Timsort,sorted,100000,0,0.001381
+Timsort,sorted,100000,1,0.001324
+Timsort,sorted,100000,2,0.001129
+Timsort,sorted,100000,3,0.00118
+Timsort,sorted,100000,4,0.001191
+Timsort,sorted,100000,5,0.001135
+Timsort,sorted,100000,6,0.001201
+Timsort,sorted,100000,7,0.001197
+Timsort,sorted,100000,8,0.001178
+Timsort,sorted,100000,9,0.001143
+Timsort,sorted,100000,10,0.001172
+Timsort,sorted,100000,11,0.001186
+Timsort,sorted,100000,12,0.001237
+Timsort,sorted,100000,13,0.001214
+Timsort,sorted,100000,14,0.001124
+Timsort,reverse,100,0,3e-06
+Timsort,reverse,100,1,1e-06
+Timsort,reverse,100,2,1e-06
+Timsort,reverse,100,3,1e-06
+Timsort,reverse,100,4,1e-06
+Timsort,reverse,100,5,1e-06
+Timsort,reverse,100,6,1e-06
+Timsort,reverse,100,7,1e-06
+Timsort,reverse,100,8,1e-06
+Timsort,reverse,100,9,1e-06
+Timsort,reverse,100,10,1e-06
+Timsort,reverse,100,11,1e-06
+Timsort,reverse,100,12,2e-06
+Timsort,reverse,100,13,1e-06
+Timsort,reverse,100,14,2e-06
+Timsort,reverse,500,0,7e-06
+Timsort,reverse,500,1,7e-06
+Timsort,reverse,500,2,7e-06
+Timsort,reverse,500,3,7e-06
+Timsort,reverse,500,4,7e-06
+Timsort,reverse,500,5,7e-06
+Timsort,reverse,500,6,8e-06
+Timsort,reverse,500,7,7e-06
+Timsort,reverse,500,8,7e-06
+Timsort,reverse,500,9,4e-06
+Timsort,reverse,500,10,4e-06
+Timsort,reverse,500,11,4e-06
+Timsort,reverse,500,12,4e-06
+Timsort,reverse,500,13,4e-06
+Timsort,reverse,500,14,4e-06
+Timsort,reverse,1000,0,9e-06
+Timsort,reverse,1000,1,8e-06
+Timsort,reverse,1000,2,8e-06
+Timsort,reverse,1000,3,2.9e-05
+Timsort,reverse,1000,4,8e-06
+Timsort,reverse,1000,5,8e-06
+Timsort,reverse,1000,6,8e-06
+Timsort,reverse,1000,7,8e-06
+Timsort,reverse,1000,8,8e-06
+Timsort,reverse,1000,9,8e-06
+Timsort,reverse,1000,10,8e-06
+Timsort,reverse,1000,11,8e-06
+Timsort,reverse,1000,12,4.6e-05
+Timsort,reverse,1000,13,9e-06
+Timsort,reverse,1000,14,8e-06
+Timsort,reverse,5000,0,4.9e-05
+Timsort,reverse,5000,1,4e-05
+Timsort,reverse,5000,2,4e-05
+Timsort,reverse,5000,3,3.9e-05
+Timsort,reverse,5000,4,3.9e-05
+Timsort,reverse,5000,5,4e-05
+Timsort,reverse,5000,6,4e-05
+Timsort,reverse,5000,7,3.9e-05
+Timsort,reverse,5000,8,4.5e-05
+Timsort,reverse,5000,9,4e-05
+Timsort,reverse,5000,10,4e-05
+Timsort,reverse,5000,11,3.9e-05
+Timsort,reverse,5000,12,4e-05
+Timsort,reverse,5000,13,4e-05
+Timsort,reverse,5000,14,4e-05
+Timsort,reverse,10000,0,9.3e-05
+Timsort,reverse,10000,1,8.8e-05
+Timsort,reverse,10000,2,9.9e-05
+Timsort,reverse,10000,3,8.1e-05
+Timsort,reverse,10000,4,8.3e-05
+Timsort,reverse,10000,5,8.1e-05
+Timsort,reverse,10000,6,7.9e-05
+Timsort,reverse,10000,7,8.3e-05
+Timsort,reverse,10000,8,8.7e-05
+Timsort,reverse,10000,9,8.1e-05
+Timsort,reverse,10000,10,7.9e-05
+Timsort,reverse,10000,11,8e-05
+Timsort,reverse,10000,12,7.9e-05
+Timsort,reverse,10000,13,8.1e-05
+Timsort,reverse,10000,14,8e-05
+Timsort,reverse,50000,0,0.000639
+Timsort,reverse,50000,1,0.000458
+Timsort,reverse,50000,2,0.000464
+Timsort,reverse,50000,3,0.000454
+Timsort,reverse,50000,4,0.000446
+Timsort,reverse,50000,5,0.000465
+Timsort,reverse,50000,6,0.000441
+Timsort,reverse,50000,7,0.000491
+Timsort,reverse,50000,8,0.000442
+Timsort,reverse,50000,9,0.000457
+Timsort,reverse,50000,10,0.000522
+Timsort,reverse,50000,11,0.000445
+Timsort,reverse,50000,12,0.000474
+Timsort,reverse,50000,13,0.000464
+Timsort,reverse,50000,14,0.000455
+Timsort,reverse,100000,0,0.001552
+Timsort,reverse,100000,1,0.001468
+Timsort,reverse,100000,2,0.001312
+Timsort,reverse,100000,3,0.001719
+Timsort,reverse,100000,4,0.002051
+Timsort,reverse,100000,5,0.001965
+Timsort,reverse,100000,6,0.002078
+Timsort,reverse,100000,7,0.002021
+Timsort,reverse,100000,8,0.001959
+Timsort,reverse,100000,9,0.001244
+Timsort,reverse,100000,10,0.001208
+Timsort,reverse,100000,11,0.001215
+Timsort,reverse,100000,12,0.001235
+Timsort,reverse,100000,13,0.00117
+Timsort,reverse,100000,14,0.001209
+Timsort,nearly_sorted,100,0,5e-06
+Timsort,nearly_sorted,100,1,3e-06
+Timsort,nearly_sorted,100,2,2e-06
+Timsort,nearly_sorted,100,3,3e-06
+Timsort,nearly_sorted,100,4,2e-06
+Timsort,nearly_sorted,100,5,2e-06
+Timsort,nearly_sorted,100,6,2e-06
+Timsort,nearly_sorted,100,7,2e-06
+Timsort,nearly_sorted,100,8,2e-06
+Timsort,nearly_sorted,100,9,2e-06
+Timsort,nearly_sorted,100,10,2e-06
+Timsort,nearly_sorted,100,11,2e-06
+Timsort,nearly_sorted,100,12,2e-06
+Timsort,nearly_sorted,100,13,2e-06
+Timsort,nearly_sorted,100,14,2e-06
+Timsort,nearly_sorted,500,0,1.1e-05
+Timsort,nearly_sorted,500,1,1e-05
+Timsort,nearly_sorted,500,2,9e-06
+Timsort,nearly_sorted,500,3,9e-06
+Timsort,nearly_sorted,500,4,9e-06
+Timsort,nearly_sorted,500,5,9e-06
+Timsort,nearly_sorted,500,6,9e-06
+Timsort,nearly_sorted,500,7,9e-06
+Timsort,nearly_sorted,500,8,9e-06
+Timsort,nearly_sorted,500,9,9e-06
+Timsort,nearly_sorted,500,10,9e-06
+Timsort,nearly_sorted,500,11,7e-06
+Timsort,nearly_sorted,500,12,9e-06
+Timsort,nearly_sorted,500,13,9e-06
+Timsort,nearly_sorted,500,14,8e-06
+Timsort,nearly_sorted,1000,0,1.5e-05
+Timsort,nearly_sorted,1000,1,1.6e-05
+Timsort,nearly_sorted,1000,2,1.7e-05
+Timsort,nearly_sorted,1000,3,3.6e-05
+Timsort,nearly_sorted,1000,4,1.8e-05
+Timsort,nearly_sorted,1000,5,1.7e-05
+Timsort,nearly_sorted,1000,6,1.7e-05
+Timsort,nearly_sorted,1000,7,1.6e-05
+Timsort,nearly_sorted,1000,8,1.5e-05
+Timsort,nearly_sorted,1000,9,1.7e-05
+Timsort,nearly_sorted,1000,10,1.6e-05
+Timsort,nearly_sorted,1000,11,1.6e-05
+Timsort,nearly_sorted,1000,12,1.5e-05
+Timsort,nearly_sorted,1000,13,1.6e-05
+Timsort,nearly_sorted,1000,14,1.6e-05
+Timsort,nearly_sorted,5000,0,5.8e-05
+Timsort,nearly_sorted,5000,1,5.7e-05
+Timsort,nearly_sorted,5000,2,5.5e-05
+Timsort,nearly_sorted,5000,3,5.6e-05
+Timsort,nearly_sorted,5000,4,5.4e-05
+Timsort,nearly_sorted,5000,5,5.4e-05
+Timsort,nearly_sorted,5000,6,5.3e-05
+Timsort,nearly_sorted,5000,7,9.3e-05
+Timsort,nearly_sorted,5000,8,5.2e-05
+Timsort,nearly_sorted,5000,9,5.4e-05
+Timsort,nearly_sorted,5000,10,5.5e-05
+Timsort,nearly_sorted,5000,11,5.4e-05
+Timsort,nearly_sorted,5000,12,5.5e-05
+Timsort,nearly_sorted,5000,13,5.5e-05
+Timsort,nearly_sorted,5000,14,6.1e-05
+Timsort,nearly_sorted,10000,0,0.00015
+Timsort,nearly_sorted,10000,1,0.00011
+Timsort,nearly_sorted,10000,2,0.000101
+Timsort,nearly_sorted,10000,3,0.000105
+Timsort,nearly_sorted,10000,4,0.000102
+Timsort,nearly_sorted,10000,5,0.000104
+Timsort,nearly_sorted,10000,6,9.8e-05
+Timsort,nearly_sorted,10000,7,0.0001
+Timsort,nearly_sorted,10000,8,9.8e-05
+Timsort,nearly_sorted,10000,9,9.8e-05
+Timsort,nearly_sorted,10000,10,0.000112
+Timsort,nearly_sorted,10000,11,9.8e-05
+Timsort,nearly_sorted,10000,12,0.000121
+Timsort,nearly_sorted,10000,13,0.000111
+Timsort,nearly_sorted,10000,14,0.0001
+Timsort,nearly_sorted,50000,0,0.000758
+Timsort,nearly_sorted,50000,1,0.000492
+Timsort,nearly_sorted,50000,2,0.000502
+Timsort,nearly_sorted,50000,3,0.000492
+Timsort,nearly_sorted,50000,4,0.000561
+Timsort,nearly_sorted,50000,5,0.000505
+Timsort,nearly_sorted,50000,6,0.000506
+Timsort,nearly_sorted,50000,7,0.00075
+Timsort,nearly_sorted,50000,8,0.000857
+Timsort,nearly_sorted,50000,9,0.000546
+Timsort,nearly_sorted,50000,10,0.000519
+Timsort,nearly_sorted,50000,11,0.000512
+Timsort,nearly_sorted,50000,12,0.000507
+Timsort,nearly_sorted,50000,13,0.000487
+Timsort,nearly_sorted,50000,14,0.000497
+Timsort,nearly_sorted,100000,0,0.001394
+Timsort,nearly_sorted,100000,1,0.001399
+Timsort,nearly_sorted,100000,2,0.001334
+Timsort,nearly_sorted,100000,3,0.001318
+Timsort,nearly_sorted,100000,4,0.001388
+Timsort,nearly_sorted,100000,5,0.001323
+Timsort,nearly_sorted,100000,6,0.001269
+Timsort,nearly_sorted,100000,7,0.001229
+Timsort,nearly_sorted,100000,8,0.001309
+Timsort,nearly_sorted,100000,9,0.001288
+Timsort,nearly_sorted,100000,10,0.00135
+Timsort,nearly_sorted,100000,11,0.001321
+Timsort,nearly_sorted,100000,12,0.001185
+Timsort,nearly_sorted,100000,13,0.001308
+Timsort,nearly_sorted,100000,14,0.001363
+Timsort,constant,100,0,5e-06
+Timsort,constant,100,1,1e-06
+Timsort,constant,100,2,1e-06
+Timsort,constant,100,3,1e-06
+Timsort,constant,100,4,1e-06
+Timsort,constant,100,5,1e-06
+Timsort,constant,100,6,1e-06
+Timsort,constant,100,7,1e-06
+Timsort,constant,100,8,1e-06
+Timsort,constant,100,9,1e-06
+Timsort,constant,100,10,1e-06
+Timsort,constant,100,11,1e-06
+Timsort,constant,100,12,1e-06
+Timsort,constant,100,13,1e-06
+Timsort,constant,100,14,1e-06
+Timsort,constant,500,0,8e-06
+Timsort,constant,500,1,4e-06
+Timsort,constant,500,2,3e-06
+Timsort,constant,500,3,5e-06
+Timsort,constant,500,4,3e-06
+Timsort,constant,500,5,3e-06
+Timsort,constant,500,6,3e-06
+Timsort,constant,500,7,3e-06
+Timsort,constant,500,8,3e-06
+Timsort,constant,500,9,3e-06
+Timsort,constant,500,10,3e-06
+Timsort,constant,500,11,3e-06
+Timsort,constant,500,12,3e-06
+Timsort,constant,500,13,3e-06
+Timsort,constant,500,14,3e-06
+Timsort,constant,1000,0,1.3e-05
+Timsort,constant,1000,1,6e-06
+Timsort,constant,1000,2,1.1e-05
+Timsort,constant,1000,3,1e-05
+Timsort,constant,1000,4,7e-06
+Timsort,constant,1000,5,6e-06
+Timsort,constant,1000,6,6e-06
+Timsort,constant,1000,7,6e-06
+Timsort,constant,1000,8,6e-06
+Timsort,constant,1000,9,6e-06
+Timsort,constant,1000,10,6e-06
+Timsort,constant,1000,11,6e-06
+Timsort,constant,1000,12,6e-06
+Timsort,constant,1000,13,6e-06
+Timsort,constant,1000,14,6e-06
+Timsort,constant,5000,0,3.2e-05
+Timsort,constant,5000,1,3e-05
+Timsort,constant,5000,2,5.9e-05
+Timsort,constant,5000,3,3e-05
+Timsort,constant,5000,4,3e-05
+Timsort,constant,5000,5,3e-05
+Timsort,constant,5000,6,3.7e-05
+Timsort,constant,5000,7,4.4e-05
+Timsort,constant,5000,8,6e-05
+Timsort,constant,5000,9,6.9e-05
+Timsort,constant,5000,10,5.2e-05
+Timsort,constant,5000,11,5.1e-05
+Timsort,constant,5000,12,3e-05
+Timsort,constant,5000,13,4.3e-05
+Timsort,constant,5000,14,3e-05
+Timsort,constant,10000,0,6.2e-05
+Timsort,constant,10000,1,5.9e-05
+Timsort,constant,10000,2,5.9e-05
+Timsort,constant,10000,3,6.5e-05
+Timsort,constant,10000,4,5.9e-05
+Timsort,constant,10000,5,5.9e-05
+Timsort,constant,10000,6,5.9e-05
+Timsort,constant,10000,7,7e-05
+Timsort,constant,10000,8,5.9e-05
+Timsort,constant,10000,9,6e-05
+Timsort,constant,10000,10,5.9e-05
+Timsort,constant,10000,11,6e-05
+Timsort,constant,10000,12,6.5e-05
+Timsort,constant,10000,13,6e-05
+Timsort,constant,10000,14,5.9e-05
+Timsort,constant,50000,0,0.000528
+Timsort,constant,50000,1,0.000315
+Timsort,constant,50000,2,0.000303
+Timsort,constant,50000,3,0.000304
+Timsort,constant,50000,4,0.000308
+Timsort,constant,50000,5,0.000304
+Timsort,constant,50000,6,0.0003
+Timsort,constant,50000,7,0.000312
+Timsort,constant,50000,8,0.000308
+Timsort,constant,50000,9,0.000295
+Timsort,constant,50000,10,0.000295
+Timsort,constant,50000,11,0.000299
+Timsort,constant,50000,12,0.000284
+Timsort,constant,50000,13,0.000284
+Timsort,constant,50000,14,0.000284
+Timsort,constant,100000,0,0.001008
+Timsort,constant,100000,1,0.000872
+Timsort,constant,100000,2,0.000828
+Timsort,constant,100000,3,0.00107
+Timsort,constant,100000,4,0.000862
+Timsort,constant,100000,5,0.000883
+Timsort,constant,100000,6,0.000893
+Timsort,constant,100000,7,0.000833
+Timsort,constant,100000,8,0.000837
+Timsort,constant,100000,9,0.00088
+Timsort,constant,100000,10,0.000892
+Timsort,constant,100000,11,0.000831
+Timsort,constant,100000,12,0.000854
+Timsort,constant,100000,13,0.000849
+Timsort,constant,100000,14,0.000835
