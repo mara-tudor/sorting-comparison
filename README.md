@@ -52,7 +52,7 @@ pip install matplotlib   # optional, for plots
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/sorting-comparison.git
+git clone https://github.com/mara-tudor/sorting-comparison.git
 cd sorting-comparison
 
 # Run benchmark (saves results/results.csv)
