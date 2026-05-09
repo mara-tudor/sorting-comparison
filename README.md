@@ -2,7 +2,7 @@
 
 Companion repository for the paper:
 **"An Experimental Comparison of Sorting Algorithms"**
-— West University Timișoara, Department of Computer Science, 2026.
+— Mara Tudor, West University Timișoara, Department of Computer Science, 2026.
 
 ## Algorithms implemented
 
