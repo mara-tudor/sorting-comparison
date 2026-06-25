@@ -1,11 +1,14 @@
 def timsort(arr):
     """
-    Timsort — Python's built-in sorting algorithm (Tim Peters, 2002).
-    Hybrid of Merge Sort and Insertion Sort; exploits existing order (runs).
-    O(n log n) worst case, O(n) best case (already sorted).
-    Stable, requires O(n) auxiliary space.
-
-    We wrap Python's built-in sorted() so Timsort fits the same interface
-    as the other algorithms in this benchmark.
+    Python's built-in sorted() function (C implementation).
+    
+    Note: This is NOT a hand-written Python implementation of Timsort.
+    It is included as a C-level reference baseline only to show the performance
+    gap between pure Python and compiled C implementations.
+    The underlying algorithm in CPython 3.11+ uses a modern merge-insertion hybrid
+    strategy rather than the original Timsort from Peters 2002.
+    
+    Included for educational comparison only; should not be evaluated on equal
+    terms with the other hand-written Python sorting algorithms.
     """
     return sorted(arr)
