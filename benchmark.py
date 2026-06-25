@@ -115,7 +115,7 @@ def run_benchmark():
                     mean_t = sum(times) / len(times)
                     print(
                         f"{name:20s} | {dist:14s} | n={n:>7,} | "
-                        f"mean={mean_t:.4f}s"
+                        f"mean={mean_t:.8f}s"
                     )
 
     print(f"\n✓ Results saved to {csv_path}")
