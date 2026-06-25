@@ -1,7 +1,7 @@
 def heap_sort(arr):
     """
     Heap Sort — O(n log n) in all cases.
-    Not stable, in-place (O(1) extra space).
+    Not stable, in-place (O(log n) stack space for recursion).
     """
     a = arr[:]
     n = len(a)
